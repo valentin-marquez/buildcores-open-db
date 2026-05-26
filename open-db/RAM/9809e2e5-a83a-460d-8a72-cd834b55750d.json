@@ -1,0 +1,28 @@
+{
+  "opendb_id": "9809e2e5-a83a-460d-8a72-cd834b55750d",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "ADATA XPG Lancer Blade RGB Black DDR5-6000 CL48 16GB",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX5U6000C4816G-SLABRBK"],
+    "series": "XPG Lancer Blade RGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["BLACK", "RGB"],
+  "cas_latency": 48,
+  "voltage": 1.1,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "profile_support": ["XMP", "EXPO"],
+  "lighting": ["RGB"]
+}

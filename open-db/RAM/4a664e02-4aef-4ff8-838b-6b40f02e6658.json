@@ -1,0 +1,28 @@
+{
+  "opendb_id": "4a664e02-4aef-4ff8-838b-6b40f02e6658",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 64
+  },
+  "metadata": {
+    "name": "Kingston Fury Beast RGB Black DDR5-5600 CL36 64GB (1x64GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF556C36BBEA-64"],
+    "series": "Fury Beast",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 64,
+  "color": ["BLACK"],
+  "cas_latency": 36,
+  "voltage": 1.25,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "profile_support": ["XMP", "EXPO"],
+  "lighting": ["RGB"]
+}

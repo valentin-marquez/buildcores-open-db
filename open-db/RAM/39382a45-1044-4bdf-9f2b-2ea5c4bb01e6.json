@@ -1,0 +1,28 @@
+{
+  "opendb_id": "39382a45-1044-4bdf-9f2b-2ea5c4bb01e6",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Kingston Fury Impact Black DDR4-3200 CL20 8GB SO-DIMM (1x8GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF432S20IB/8", "KF432S20IB8"],
+    "series": "Fury Impact",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "260-pin SO-DIMM",
+  "capacity": 8,
+  "color": ["BLACK"],
+  "cas_latency": 20,
+  "voltage": 1.2,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "02e89d7c-3396-40b4-b4db-4a8eb9a1cb9d",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 32
+  },
+  "metadata": {
+    "name": "Kingston FURY Renegade Pro Registered Black DDR5-5600 CL28 32GB (1x32GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["100018931", "KF556R28RBE2-32"],
+    "series": "FURY",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
+  "color": ["BLACK"],
+  "cas_latency": 28,
+  "voltage": null,
+  "ecc": "ECC",
+  "registered": "Registered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": ["EXPO"],
+  "lighting": []
+}

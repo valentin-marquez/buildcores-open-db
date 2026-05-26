@@ -1,0 +1,29 @@
+{
+  "opendb_id": "c65ed35a-0c8d-4023-ad9b-66a5e16e58b9",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 32
+  },
+  "metadata": {
+    "name": "Kingston FURY Beast Black DDR4-3200 CL16 32GB",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF432C16BB/32"],
+    "series": "FURY Beast",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
+  "color": ["BLACK"],
+  "cas_latency": 16,
+  "timings": "16-20-20",
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

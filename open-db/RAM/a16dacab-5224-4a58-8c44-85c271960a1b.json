@@ -1,0 +1,28 @@
+{
+  "opendb_id": "a16dacab-5224-4a58-8c44-85c271960a1b",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 32
+  },
+  "metadata": {
+    "name": "Kingston Fury Renegade Black DDR4-3200 CL16 32GB (1x32GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF432C16RB2/32"],
+    "series": "Fury Renegade",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
+  "color": ["BLACK"],
+  "cas_latency": 16,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

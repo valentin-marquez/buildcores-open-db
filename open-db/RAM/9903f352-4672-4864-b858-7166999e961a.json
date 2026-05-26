@@ -1,0 +1,28 @@
+{
+  "opendb_id": "9903f352-4672-4864-b858-7166999e961a",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "Kingston FURY Renegade Black DDR4-3600 CL16 16GB",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF436C16RB1/16", "KF436C16RB1216"],
+    "series": "FURY Renegade",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["BLACK"],
+  "cas_latency": 16,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

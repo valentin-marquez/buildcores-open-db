@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f1443175-f4af-4b4b-a9b3-11e819000c03",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "ADATA Premier DDR4-3200 CL22 16GB (1x16GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AD4U320016G22-SBK"],
+    "series": "Premier",
+    "variant": "",
+    "manufacturer_color": "Green"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["GREEN"],
+  "cas_latency": 22,
+  "voltage": 1.2,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

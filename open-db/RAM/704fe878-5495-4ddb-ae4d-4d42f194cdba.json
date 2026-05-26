@@ -1,0 +1,28 @@
+{
+  "opendb_id": "704fe878-5495-4ddb-ae4d-4d42f194cdba",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 0.5
+  },
+  "metadata": {
+    "name": "Super Talent DDR-266 PC2100 512MB",
+    "manufacturer": "Super Talent",
+    "part_numbers": ["D21PA12H"],
+    "series": "",
+    "variant": "",
+    "manufacturer_color": ""
+  },
+  "speed": 266,
+  "ram_type": "DDR1",
+  "form_factor": "184-pin DIMM",
+  "capacity": 0.5,
+  "color": [],
+  "cas_latency": null,
+  "voltage": 2.5,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

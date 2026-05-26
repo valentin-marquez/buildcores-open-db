@@ -1,0 +1,28 @@
+{
+  "opendb_id": "2afd3373-f83d-4e39-ae14-40acf4508951",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "ADATA XPG Gammix D35 Black DDR4-3200 CL16 16GB (1x16GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U320016G16A-SBKD35"],
+    "series": "XPG Gammix D35",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["BLACK"],
+  "cas_latency": 16,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

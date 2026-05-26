@@ -1,0 +1,29 @@
+{
+  "opendb_id": "070fe7a2-5034-405c-938f-c72de4fb1071",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Kingston FURY Beast RGB Black DDR5-5600 CL36 8GB",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF556C36BBEA-8"],
+    "series": "FURY Beast",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 8,
+  "color": ["BLACK"],
+  "cas_latency": 36,
+  "timings": "36-38-38",
+  "voltage": 1.25,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "profile_support": ["XMP", "EXPO"],
+  "lighting": ["RGB"]
+}

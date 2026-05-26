@@ -1,0 +1,28 @@
+{
+  "opendb_id": "cd96509f-97a5-4d29-9d40-7072eff979e9",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 32
+  },
+  "metadata": {
+    "name": "Kingston FURY Beast Black DDR4-3600 CL18 32GB",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF436C18BB/32", "KF436C18BB32"],
+    "series": "FURY Beast",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
+  "color": ["BLACK"],
+  "cas_latency": 18,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

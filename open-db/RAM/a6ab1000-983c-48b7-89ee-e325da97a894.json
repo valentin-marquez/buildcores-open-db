@@ -1,0 +1,28 @@
+{
+  "opendb_id": "a6ab1000-983c-48b7-89ee-e325da97a894",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 32
+  },
+  "metadata": {
+    "name": "Kingston ValueRAM DDR4-3200 CL22 32GB (1x32GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KCP432ND8/32", "KCP432ND832"],
+    "series": "ValueRAM",
+    "variant": "",
+    "manufacturer_color": null
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
+  "color": [],
+  "cas_latency": 22,
+  "voltage": 1.2,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

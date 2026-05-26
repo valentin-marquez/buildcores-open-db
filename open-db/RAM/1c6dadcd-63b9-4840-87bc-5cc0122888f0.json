@@ -1,0 +1,28 @@
+{
+  "opendb_id": "1c6dadcd-63b9-4840-87bc-5cc0122888f0",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "ADATA XPG GAMMIX D35 White DDR4-3200 CL16 16GB",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U320016G16A-SWHD35"],
+    "series": "XPG GAMMIX D35",
+    "variant": "",
+    "manufacturer_color": "White"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["WHITE"],
+  "cas_latency": 16,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

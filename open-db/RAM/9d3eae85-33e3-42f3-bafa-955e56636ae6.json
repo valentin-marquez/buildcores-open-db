@@ -1,0 +1,28 @@
+{
+  "opendb_id": "9d3eae85-33e3-42f3-bafa-955e56636ae6",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "Kingston ValueRAM DDR5-5600 CL46 16GB (1x16GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KCP556US8-16"],
+    "series": "ValueRAM",
+    "variant": "",
+    "manufacturer_color": null
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": [],
+  "cas_latency": 46,
+  "voltage": 1.1,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "7d9f4da9-3d9c-404b-a0d4-0043a79b7dce",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "Kingston Fury Beast RGB Black DDR4-3600 CL18 16GB (1x16GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF436C18BB2A/16", "KF436C18BB2A16"],
+    "series": "Fury Beast RGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["BLACK", "RGB"],
+  "cas_latency": 18,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "profile_support": ["XMP"],
+  "lighting": ["RGB"]
+}

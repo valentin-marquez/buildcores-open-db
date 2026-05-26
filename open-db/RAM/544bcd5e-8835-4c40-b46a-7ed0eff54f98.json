@@ -1,0 +1,28 @@
+{
+  "opendb_id": "544bcd5e-8835-4c40-b46a-7ed0eff54f98",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 48
+  },
+  "metadata": {
+    "name": "Kingston KCP556UD8-48 Green DDR5-5600 CL46 48GB (1x48GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KCP556UD8-48"],
+    "series": "KCP556UD8-48",
+    "variant": "",
+    "manufacturer_color": "Green"
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 48,
+  "color": ["GREEN"],
+  "cas_latency": 46,
+  "voltage": 1.1,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "b05d9f02-f9f6-4a99-998c-73e6d4ee705e",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Kingston ClientPremier DDR4-3200 CL22 8GB SODIMM",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KCP432SS8/8"],
+    "series": "ClientPremier",
+    "variant": "",
+    "manufacturer_color": "Green"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "260-pin SO-DIMM",
+  "capacity": 8,
+  "color": [],
+  "cas_latency": 22,
+  "voltage": 1.2,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

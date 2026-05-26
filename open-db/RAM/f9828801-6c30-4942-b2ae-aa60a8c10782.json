@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f9828801-6c30-4942-b2ae-aa60a8c10782",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Kingston FURY Renegade Black DDR4-3600 CL16 8GB (1x8GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF436C16RB28", "KF436C16RB2/8"],
+    "series": "FURY",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 8,
+  "color": ["BLACK"],
+  "cas_latency": 16,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

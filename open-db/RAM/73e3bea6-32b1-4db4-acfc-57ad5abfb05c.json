@@ -1,0 +1,28 @@
+{
+  "opendb_id": "73e3bea6-32b1-4db4-acfc-57ad5abfb05c",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Kingston Fury Beast Black DDR4-3600 CL17 8GB (1x8GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF436C17BB/8", "KF436C17BB8"],
+    "series": "Fury Beast",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 8,
+  "color": ["BLACK"],
+  "cas_latency": 17,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

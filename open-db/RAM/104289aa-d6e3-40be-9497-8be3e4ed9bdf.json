@@ -1,0 +1,28 @@
+{
+  "opendb_id": "104289aa-d6e3-40be-9497-8be3e4ed9bdf",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "Kingston FURY Beast DDR5-6800 CL34 16GB EXPO Black",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF568C34BBE-16"],
+    "series": "FURY Beast",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 6800,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["BLACK"],
+  "cas_latency": 34,
+  "voltage": 1.4,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["EXPO", "XMP"],
+  "lighting": []
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "447b4d36-ca94-4e78-bb2b-9305a7b9e686",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "ADATA XPG GAMMIX D35 Black DDR4-3600 CL18 8GB (1x8GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U36008G18I-SBKD35"],
+    "series": "XPG GAMMIX D35",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 8,
+  "color": ["BLACK"],
+  "cas_latency": 18,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

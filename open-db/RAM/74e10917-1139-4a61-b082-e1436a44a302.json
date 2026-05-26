@@ -1,0 +1,28 @@
+{
+  "opendb_id": "74e10917-1139-4a61-b082-e1436a44a302",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "ADATA Premier DDR5-5600 CL46 16GB (1x16GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AD5U560016G-S"],
+    "series": "Premier",
+    "variant": "",
+    "manufacturer_color": null
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": [],
+  "cas_latency": 46,
+  "voltage": 1.1,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

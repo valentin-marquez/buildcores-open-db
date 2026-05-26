@@ -1,0 +1,28 @@
+{
+  "opendb_id": "ef2c666f-aeef-42ee-bf93-758ed0718c8a",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 0.5
+  },
+  "metadata": {
+    "name": "Kingston ValueRAM DDR-266 PC2100 512MB (1x512MB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KVR266X64C25/512"],
+    "series": "ValueRAM",
+    "variant": "",
+    "manufacturer_color": "Green"
+  },
+  "speed": 266,
+  "ram_type": "DDR1",
+  "form_factor": "184-pin DIMM",
+  "capacity": 0.5,
+  "color": [],
+  "cas_latency": 2.5,
+  "voltage": 2.5,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "df6d3fac-6f50-40f1-adc7-5b180a533430",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Kingston ValueRAM DDR4-3200 CL22 8GB SODIMM",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KVR32S22S8/8"],
+    "series": "ValueRAM",
+    "variant": "",
+    "manufacturer_color": "Green"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "260-pin SO-DIMM",
+  "capacity": 8,
+  "color": [],
+  "cas_latency": 22,
+  "voltage": 1.2,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

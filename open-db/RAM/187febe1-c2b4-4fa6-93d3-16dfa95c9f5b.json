@@ -1,0 +1,29 @@
+{
+  "opendb_id": "187febe1-c2b4-4fa6-93d3-16dfa95c9f5b",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Corsair Vengeance Gray DDR5-6000 CL36 16GB (2x8GB)",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMK16GX5M2E6000Z36"],
+    "series": "Vengeance",
+    "variant": "",
+    "manufacturer_color": "Gray"
+  },
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["GREY"],
+  "cas_latency": 36,
+  "timings": "36-44-44-96",
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP", "EXPO"],
+  "lighting": []
+}

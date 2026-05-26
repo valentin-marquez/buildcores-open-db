@@ -1,0 +1,28 @@
+{
+  "opendb_id": "7ffce717-9eaf-4dcf-9d55-645198736bdc",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 1
+  },
+  "metadata": {
+    "name": "Super Talent DDR-266 PC2100 1GB (1x1GB)",
+    "manufacturer": "Super Talent",
+    "part_numbers": ["D21PB1GH"],
+    "series": "",
+    "variant": "",
+    "manufacturer_color": "Green"
+  },
+  "speed": 266,
+  "ram_type": "DDR1",
+  "form_factor": "184-pin DIMM",
+  "capacity": 1,
+  "color": [],
+  "cas_latency": null,
+  "voltage": 2.5,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

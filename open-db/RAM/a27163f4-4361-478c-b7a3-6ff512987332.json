@@ -1,0 +1,28 @@
+{
+  "opendb_id": "a27163f4-4361-478c-b7a3-6ff512987332",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 32
+  },
+  "metadata": {
+    "name": "Kingston Fury Beast RGB Black DDR5-5600 CL40 32GB (1x32GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KF556C40BBA-32", "100018190"],
+    "series": "Fury Beast RGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
+  "color": ["BLACK", "RGB"],
+  "cas_latency": 40,
+  "voltage": 1.25,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "profile_support": ["XMP"],
+  "lighting": ["RGB"]
+}

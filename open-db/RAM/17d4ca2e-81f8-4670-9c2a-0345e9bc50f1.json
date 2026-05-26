@@ -1,0 +1,28 @@
+{
+  "opendb_id": "17d4ca2e-81f8-4670-9c2a-0345e9bc50f1",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "GMOG DDR4-3200 8GB (1x8GB)",
+    "manufacturer": "GMOG",
+    "part_numbers": ["GMPC251208G3200"],
+    "series": "GMOG",
+    "variant": "",
+    "manufacturer_color": null
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 8,
+  "color": null,
+  "cas_latency": null,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": null,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "fc79126c-9aaa-410d-b99f-197c2ceed675",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "Crucial SODIMM DDR4-3200 CL22 8GB (1x8GB)",
+    "manufacturer": "Crucial",
+    "part_numbers": ["CT8G4SFRA32A"],
+    "series": "CT8G4SFRA32A",
+    "variant": "",
+    "manufacturer_color": null
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "260-pin SO-DIMM",
+  "capacity": 8,
+  "color": [],
+  "cas_latency": 22,
+  "voltage": 1.2,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

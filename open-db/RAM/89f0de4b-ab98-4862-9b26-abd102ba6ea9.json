@@ -1,0 +1,28 @@
+{
+  "opendb_id": "89f0de4b-ab98-4862-9b26-abd102ba6ea9",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "Corsair Vengeance Black DDR5-6000 CL38 32GB (2x16GB)",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMK32GX5M2B6000C38"],
+    "series": "Vengeance",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 32,
+  "color": ["BLACK"],
+  "cas_latency": 38,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "4e019160-0cd9-4c18-aecb-a3ef05f3ce99",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "metadata": {
+    "name": "WCHUDISK DDR5-5600 16GB Silver",
+    "manufacturer": "WCHUDISK",
+    "part_numbers": ["WC500D516G"],
+    "series": "WCHUDISK DDR5",
+    "variant": "",
+    "manufacturer_color": "Silver"
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 16,
+  "color": ["GREY"],
+  "cas_latency": null,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

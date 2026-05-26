@@ -1,0 +1,28 @@
+{
+  "opendb_id": "4792a644-caab-4a65-9dce-ec4dfa71524f",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 0.5
+  },
+  "metadata": {
+    "name": "Super Talent DDR-400 PC3200 512MB UDIMM",
+    "manufacturer": "Super Talent",
+    "part_numbers": ["D32PA12H"],
+    "series": "",
+    "variant": "",
+    "manufacturer_color": "Green"
+  },
+  "speed": 400,
+  "ram_type": "DDR1",
+  "form_factor": "184-pin DIMM",
+  "capacity": 0.5,
+  "color": [],
+  "cas_latency": null,
+  "voltage": 2.5,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "profile_support": [],
+  "lighting": []
+}

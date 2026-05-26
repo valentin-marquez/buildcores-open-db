@@ -1,0 +1,28 @@
+{
+  "opendb_id": "ac2ce11f-c72a-47c8-971c-9f0d56c6078e",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "ADATA XPG Gammix D35 White DDR4-3200 CL16 8GB",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U32008G16A-SWHD35"],
+    "series": "XPG Gammix D35",
+    "variant": "",
+    "manufacturer_color": "White"
+  },
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM",
+  "capacity": 8,
+  "color": ["WHITE"],
+  "cas_latency": 16,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["XMP"],
+  "lighting": []
+}

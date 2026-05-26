@@ -1,0 +1,28 @@
+{
+  "opendb_id": "617a78dc-2d1d-4628-95a8-f25f2e83dfa7",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 32
+  },
+  "metadata": {
+    "name": "Corsair Vengeance Black DDR5-5600 CL40 64GB (2x32GB)",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMK64GX5M2D5600Z40", "CMK64GX5M2B5600Z40"],
+    "series": "Vengeance",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "form_factor": "288-pin DIMM",
+  "capacity": 64,
+  "color": ["BLACK"],
+  "cas_latency": 40,
+  "voltage": 1.25,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "profile_support": ["EXPO", "XMP"],
+  "lighting": []
+}
