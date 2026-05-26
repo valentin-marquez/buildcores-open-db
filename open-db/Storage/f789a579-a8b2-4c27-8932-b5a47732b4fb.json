@@ -1,0 +1,21 @@
+{
+  "opendb_id": "f789a579-a8b2-4c27-8932-b5a47732b4fb",
+  "metadata": {
+    "name": "Kingston KC3000 512GB PCIe 4.0 NVMe M.2 2280",
+    "manufacturer": "Kingston",
+    "series": "KC3000",
+    "variant": "",
+    "releaseYear": 2021,
+    "part_numbers": ["SKC3000S/512G", "740617324402"]
+  },
+  "capacity": 512,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "cache": null,
+  "lighting": ["None"],
+  "general_product_information": {
+    "manufacturer_url": "https://www.kingston.com/en/ssd/kc3000-nvme-m2-solid-state-drive"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "opendb_id": "89be7c2c-0f31-4c00-a38c-36f6a0522ba3",
+  "cores": {
+    "total": 6,
+    "performance": 6,
+    "threads": 12
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.7,
+      "boost": 4.7
+    }
+  },
+  "cache": {
+    "l1": "384 KB",
+    "l2": 3,
+    "l3": 32
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "None"
+    },
+    "memory": {
+      "maxSupport": 128,
+      "types": ["DDR4"],
+      "channels": 2
+    },
+    "tdp": 65,
+    "ppt": 88,
+    "eccSupport": true,
+    "includesCooler": null,
+    "packaging": null,
+    "lithography": "TSMC 7nm FinFET",
+    "simultaneousMultithreading": true
+  },
+  "metadata": {
+    "name": "AMD Ryzen 5 5600XT",
+    "manufacturer": "AMD",
+    "part_numbers": ["0306006A14N", "100-100001585", "AMD Ryzen 5 5600XT"],
+    "series": "AMD Ryzen 5 5000",
+    "variant": "5600XT",
+    "releaseYear": 2024
+  },
+  "series": "Ryzen 5 5000",
+  "microarchitecture": "Zen 3",
+  "coreFamily": "Vermeer",
+  "socket": "AM4",
+  "general_product_information": {
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600xt.html"
+  }
+}

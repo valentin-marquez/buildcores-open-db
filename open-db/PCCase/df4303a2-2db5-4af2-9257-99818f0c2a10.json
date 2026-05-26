@@ -1,0 +1,33 @@
+{
+  "opendb_id": "df4303a2-2db5-4af2-9257-99818f0c2a10",
+  "form_factor": "ATX Mid Tower",
+  "supported_motherboard_form_factors": ["ATX", "Micro ATX", "Mini-ITX"],
+  "color": ["BLACK"],
+  "lighting": ["ARGB"],
+  "power_supply_included": false,
+  "supported_power_supply_form_factors": ["ATX"],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "front_usb_ports": ["2x USB 3.0", "1x USB 2.0"],
+  "max_video_card_length": 340,
+  "max_cpu_cooler_height": 165,
+  "max_psu_length": 210,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 2,
+  "power_supply_shroud": true,
+  "expansion_slots": 7,
+  "dimensions": "421 x 210 x 460",
+  "dimensions_mm": {
+    "depth": 421,
+    "width": 210,
+    "height": 460
+  },
+  "metadata": {
+    "name": "Gamemax Diamond CP ATX Mid Tower Black",
+    "manufacturer": "GameMax",
+    "part_numbers": ["100280050133", "Diamond CP BK"],
+    "series": "Diamond",
+    "variant": "CP",
+    "manufacturer_color": "Black"
+  }
+}

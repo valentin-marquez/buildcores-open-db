@@ -1,0 +1,53 @@
+{
+  "opendb_id": "bf202fd1-55ac-4da4-af1a-aa7bebd8f3d5",
+  "cores": {
+    "total": 6,
+    "threads": 12
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.5,
+      "boost": 5.0
+    }
+  },
+  "cache": {
+    "l1": "384 KB",
+    "l2": 6,
+    "l3": 16
+  },
+  "specifications": {
+    "tdp": 65,
+    "ppt": 88,
+    "integratedGraphics": {
+      "model": "AMD Radeon 740M Graphics",
+      "baseClock": null,
+      "boostClock": 2800,
+      "shaderCount": 256
+    },
+    "memory": {
+      "types": ["DDR5"],
+      "channels": 2,
+      "maxSupport": 256
+    },
+    "eccSupport": true,
+    "packaging": "Boxed",
+    "lithography": "TSMC 4nm FinFET",
+    "simultaneousMultithreading": true,
+    "includesCooler": true
+  },
+  "metadata": {
+    "name": "AMD Ryzen 5 8500G",
+    "part_numbers": ["100-100001055BOX", "730143316439"],
+    "series": "Ryzen 5 8000",
+    "variant": "8500G",
+    "manufacturer": "AMD",
+    "releaseYear": 2024
+  },
+  "series": "AMD Ryzen 5 8000",
+  "microarchitecture": "Zen 4 / Zen 4c",
+  "coreFamily": "Phoenix 2",
+  "socket": "AM5",
+  "general_product_information": {
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-5-8500g.html"
+  }
+}

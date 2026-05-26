@@ -1,0 +1,53 @@
+{
+  "opendb_id": "fa0bb713-1e49-4f0c-8ccd-3e59f4592b26",
+  "cores": {
+    "total": 24,
+    "threads": 32,
+    "performance": 8,
+    "efficiency": 16
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.2,
+      "boost": 6.0
+    },
+    "efficiency": {
+      "base": 2.4,
+      "boost": 4.4
+    }
+  },
+  "cache": {
+    "l1": "2304 KB",
+    "l2": 32,
+    "l3": 36
+  },
+  "specifications": {
+    "tdp": 125,
+    "integratedGraphics": null,
+    "memory": {
+      "types": ["DDR4", "DDR5"],
+      "channels": 2,
+      "maxSupport": 192
+    },
+    "eccSupport": false,
+    "packaging": null,
+    "lithography": "Intel 7",
+    "simultaneousMultithreading": true,
+    "includesCooler": false
+  },
+  "metadata": {
+    "name": "Intel Core i9-14900KF",
+    "part_numbers": ["CP949ITL02"],
+    "series": "Core i9 14th Gen",
+    "variant": "14900KF",
+    "manufacturer": "Intel",
+    "releaseYear": 2023
+  },
+  "series": "Intel Core i9 14th Gen",
+  "microarchitecture": "Raptor Lake Refresh",
+  "coreFamily": "Raptor Cove / Gracemont",
+  "socket": "LGA 1700",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/236775/intel-core-i9-processor-14900kf-36m-cache-up-to-6-00-ghz/specifications.html"
+  }
+}

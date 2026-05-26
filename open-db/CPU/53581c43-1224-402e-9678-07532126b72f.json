@@ -1,0 +1,54 @@
+{
+  "opendb_id": "53581c43-1224-402e-9678-07532126b72f",
+  "cores": {
+    "total": 4,
+    "threads": 8,
+    "performance": 4,
+    "efficiency": 0
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.3,
+      "boost": 4.3
+    }
+  },
+  "cache": {
+    "l1": "320 KB",
+    "l2": 5,
+    "l3": 12
+  },
+  "specifications": {
+    "tdp": 60,
+    "integratedGraphics": {
+      "model": "Intel UHD Graphics 730",
+      "baseClock": 300,
+      "boostClock": 1400,
+      "shaderCount": 192
+    },
+    "memory": {
+      "types": ["DDR4", "DDR5"],
+      "channels": 2,
+      "maxSupport": 128
+    },
+    "eccSupport": false,
+    "packaging": null,
+    "lithography": "Intel 7",
+    "simultaneousMultithreading": true,
+    "includesCooler": null
+  },
+  "metadata": {
+    "name": "Intel Core i3-12100",
+    "part_numbers": ["CP121ITL02"],
+    "series": "Core i3 12th Gen",
+    "variant": "12100",
+    "manufacturer": "Intel",
+    "releaseYear": 2022
+  },
+  "series": "Intel Core i3 12th Gen",
+  "microarchitecture": "Alder Lake",
+  "coreFamily": "Golden Cove",
+  "socket": "LGA 1700",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/134584/intel-core-i312100-processor-12m-cache-up-to-4-30-ghz/specifications.html"
+  }
+}

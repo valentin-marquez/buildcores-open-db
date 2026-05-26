@@ -1,0 +1,35 @@
+{
+  "opendb_id": "e1d73362-51db-47f8-9715-f8e6e8bf0db3",
+  "form_factor": "ATX Mid Tower",
+  "supported_motherboard_form_factors": ["ATX", "Micro ATX", "Mini-ITX"],
+  "color": ["BLACK"],
+  "lighting": ["ARGB"],
+  "power_supply_included": false,
+  "supported_power_supply_form_factors": ["ATX"],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "max_video_card_length": 340,
+  "max_cpu_cooler_height": 160,
+  "max_psu_length": 170,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 2,
+  "expansion_slots": 7,
+  "dimensions": "405 x 200 x 450",
+  "dimensions_mm": {
+    "depth": 405,
+    "width": 200,
+    "height": 450
+  },
+  "weight": 16.53,
+  "metadata": {
+    "name": "XPG Lander 500 ATX Mid Tower Black",
+    "manufacturer": "XPG",
+    "part_numbers": ["LANDER500MTA-BKCWW"],
+    "series": "Lander 500",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.xpg.com/en/xpg/pc-components-lander-500"
+  }
+}

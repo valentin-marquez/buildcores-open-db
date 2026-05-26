@@ -1,0 +1,36 @@
+{
+  "opendb_id": "24d11b2e-fdbb-442b-98f5-1c42f13cf5a4",
+  "form_factor": "ATX Mid Tower",
+  "supported_motherboard_form_factors": ["ATX", "Micro ATX", "Mini-ITX"],
+  "color": ["WHITE"],
+  "lighting": ["ARGB"],
+  "power_supply_included": false,
+  "supported_power_supply_form_factors": ["ATX"],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "front_usb_ports": ["2x USB 3.0 Type-A", "1x USB 3.2 Gen 2 Type-C"],
+  "max_video_card_length": 400,
+  "max_cpu_cooler_height": 180,
+  "max_psu_length": 210,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 2,
+  "expansion_slots": 10,
+  "dimensions": "415 x 300 x 400",
+  "dimensions_mm": {
+    "depth": 415,
+    "width": 300,
+    "height": 400
+  },
+  "weight": 15.06,
+  "metadata": {
+    "name": "Cougar FV150 RGB ATX Mid Tower White",
+    "manufacturer": "Cougar",
+    "part_numbers": ["4710483778247", "FV150 RGB"],
+    "series": "FV150 RGB",
+    "variant": "",
+    "manufacturer_color": "White"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://cougargaming.com/us/products/cases/fv150-rgb/"
+  }
+}

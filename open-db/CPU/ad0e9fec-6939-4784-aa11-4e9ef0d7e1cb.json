@@ -1,0 +1,54 @@
+{
+  "opendb_id": "ad0e9fec-6939-4784-aa11-4e9ef0d7e1cb",
+  "cores": {
+    "total": 6,
+    "performance": 6,
+    "threads": 12
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.9,
+      "boost": 5.4
+    }
+  },
+  "cache": {
+    "l1": "480 KB",
+    "l2": 6,
+    "l3": 32
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "AMD Radeon Graphics",
+      "baseClock": 400,
+      "boostClock": 2200,
+      "shaderCount": 128
+    },
+    "memory": {
+      "maxSupport": 256,
+      "types": ["DDR5"],
+      "channels": 2
+    },
+    "tdp": 65,
+    "ppt": 88,
+    "eccSupport": true,
+    "includesCooler": null,
+    "packaging": null,
+    "lithography": "TSMC 4nm FinFET, TSMC 6nm FinFET",
+    "simultaneousMultithreading": true
+  },
+  "metadata": {
+    "name": "AMD Ryzen 5 9600X",
+    "manufacturer": "AMD",
+    "part_numbers": ["0306006A18N", "100-100001405WOF", "AMD Ryzen 5 9600X"],
+    "series": "AMD Ryzen 5 9000",
+    "variant": "9600X",
+    "releaseYear": 2024
+  },
+  "series": "Ryzen 5 9000",
+  "microarchitecture": "Zen 5",
+  "coreFamily": "Granite Ridge",
+  "socket": "AM5",
+  "general_product_information": {
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html"
+  }
+}

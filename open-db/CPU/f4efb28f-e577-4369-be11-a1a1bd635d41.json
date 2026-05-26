@@ -1,0 +1,52 @@
+{
+  "opendb_id": "f4efb28f-e577-4369-be11-a1a1bd635d41",
+  "cores": {
+    "total": 2,
+    "threads": 2
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.0,
+      "boost": null
+    }
+  },
+  "cache": {
+    "l1": "128 KB",
+    "l2": 0.5,
+    "l3": 3
+  },
+  "specifications": {
+    "tdp": 54,
+    "integratedGraphics": {
+      "model": "Intel HD Graphics",
+      "baseClock": 350,
+      "boostClock": 1100,
+      "shaderCount": 80
+    },
+    "memory": {
+      "types": ["DDR3"],
+      "channels": 2,
+      "maxSupport": 32
+    },
+    "eccSupport": false,
+    "packaging": "OEM/Tray",
+    "lithography": "Intel 22nm",
+    "simultaneousMultithreading": false,
+    "includesCooler": false
+  },
+  "metadata": {
+    "name": "Intel Pentium G3220",
+    "part_numbers": ["G3220", "CM8064601482519"],
+    "series": "Pentium G3000",
+    "variant": "G3220",
+    "manufacturer": "Intel",
+    "releaseYear": 2013
+  },
+  "series": "Intel Pentium G3000",
+  "microarchitecture": "Haswell",
+  "coreFamily": "Haswell",
+  "socket": "LGA 1150",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/77773/intel-pentium-processor-g3220-3m-cache-3-00-ghz/specifications.html"
+  }
+}

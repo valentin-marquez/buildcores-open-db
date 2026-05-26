@@ -1,0 +1,58 @@
+{
+  "opendb_id": "7ff7bef5-cd4c-4538-872f-095fd128b0f8",
+  "cores": {
+    "total": 12,
+    "performance": 8,
+    "efficiency": 4,
+    "threads": 20
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.6,
+      "boost": 5.0
+    },
+    "efficiency": {
+      "base": 2.7,
+      "boost": 3.8
+    }
+  },
+  "cache": {
+    "l1": "80 KB per core",
+    "l2": 12,
+    "l3": 25
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "Intel UHD Graphics 770",
+      "baseClock": 300,
+      "boostClock": 1500,
+      "shaderCount": 32
+    },
+    "memory": {
+      "maxSupport": 128,
+      "types": ["DDR5", "DDR4"],
+      "channels": 2
+    },
+    "tdp": 125,
+    "eccSupport": false,
+    "includesCooler": false,
+    "packaging": "Boxed",
+    "lithography": "Intel 7",
+    "simultaneousMultithreading": true
+  },
+  "metadata": {
+    "name": "Intel Core i7-12700K",
+    "manufacturer": "Intel",
+    "part_numbers": ["CP727ITL01", "BX8071512700K", "Intel Core i7-12700K"],
+    "series": "Intel Core i7 12000",
+    "variant": "12700K",
+    "releaseYear": 2021
+  },
+  "series": "Core i7 12000",
+  "microarchitecture": "Alder Lake",
+  "coreFamily": "Golden Cove / Gracemont",
+  "socket": "LGA 1700",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/134594/intel-core-i712700k-processor-25m-cache-up-to-5-00-ghz/specifications.html"
+  }
+}

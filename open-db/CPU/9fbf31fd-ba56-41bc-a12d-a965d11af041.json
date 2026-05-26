@@ -1,0 +1,58 @@
+{
+  "opendb_id": "9fbf31fd-ba56-41bc-a12d-a965d11af041",
+  "cores": {
+    "total": 24,
+    "threads": 32,
+    "performance": 8,
+    "efficiency": 16
+  },
+  "clocks": {
+    "performance": {
+      "base": 2.0,
+      "boost": 5.8
+    },
+    "efficiency": {
+      "base": 1.5,
+      "boost": 4.3
+    }
+  },
+  "cache": {
+    "l1": "2304 KB",
+    "l2": 32,
+    "l3": 36
+  },
+  "specifications": {
+    "tdp": 65,
+    "integratedGraphics": {
+      "model": "Intel UHD Graphics 770",
+      "baseClock": 300,
+      "boostClock": 1650,
+      "shaderCount": 256
+    },
+    "memory": {
+      "types": ["DDR4", "DDR5"],
+      "channels": 2,
+      "maxSupport": 192
+    },
+    "eccSupport": false,
+    "packaging": "Boxed",
+    "lithography": "Intel 7",
+    "simultaneousMultithreading": true,
+    "includesCooler": true
+  },
+  "metadata": {
+    "name": "Intel Core i9-14900",
+    "part_numbers": ["BX8071514900", "5032037279192"],
+    "series": "Core i9 14000",
+    "variant": "14900",
+    "manufacturer": "Intel",
+    "releaseYear": 2024
+  },
+  "series": "Intel Core i9 14000",
+  "microarchitecture": "Raptor Lake Refresh",
+  "coreFamily": "Raptor Cove / Gracemont",
+  "socket": "LGA 1700",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/236777/intel-core-i9-processor-14900-36m-cache-up-to-5-80-ghz/specifications.html"
+  }
+}

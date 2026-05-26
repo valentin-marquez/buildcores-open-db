@@ -1,0 +1,33 @@
+{
+  "opendb_id": "c873e011-1f0b-4441-b7cc-4f2f77dd46a4",
+  "form_factor": "Micro ATX Mid Tower",
+  "supported_motherboard_form_factors": ["Micro ATX", "Mini-ITX"],
+  "color": ["BLACK"],
+  "lighting": ["ARGB"],
+  "power_supply_included": false,
+  "supported_power_supply_form_factors": ["SFX"],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "max_video_card_length": 383,
+  "internal_3_5_bays": 0,
+  "internal_2_5_bays": 2,
+  "expansion_slots": 4,
+  "supports_rear_connecting_motherboard": true,
+  "dimensions": "340 x 215 x 462",
+  "dimensions_mm": {
+    "depth": 340,
+    "width": 215,
+    "height": 462
+  },
+  "metadata": {
+    "name": "Gamemax T20 Micro ATX Mid Tower Black",
+    "manufacturer": "GameMax",
+    "part_numbers": ["T20BK"],
+    "series": "T20",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://gamemaxpc.com/Infinity/5636.html"
+  }
+}

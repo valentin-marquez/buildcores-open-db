@@ -1,0 +1,53 @@
+{
+  "opendb_id": "3937936a-9d40-4c97-ba0d-0f1b8aa90f49",
+  "cores": {
+    "total": 14,
+    "threads": 20,
+    "performance": 6,
+    "efficiency": 8
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.5,
+      "boost": 5.3
+    },
+    "efficiency": {
+      "base": 2.6,
+      "boost": 4.0
+    }
+  },
+  "cache": {
+    "l1": "1408 KB",
+    "l2": 20,
+    "l3": 24
+  },
+  "specifications": {
+    "tdp": 125,
+    "integratedGraphics": null,
+    "memory": {
+      "types": ["DDR4", "DDR5"],
+      "channels": 2,
+      "maxSupport": 192
+    },
+    "eccSupport": false,
+    "packaging": null,
+    "lithography": "Intel 7",
+    "simultaneousMultithreading": true,
+    "includesCooler": false
+  },
+  "metadata": {
+    "name": "Intel Core i5-14600KF",
+    "part_numbers": ["CP546ITL02"],
+    "series": "Core i5 14th Gen",
+    "variant": "14600KF",
+    "manufacturer": "Intel",
+    "releaseYear": 2023
+  },
+  "series": "Intel Core i5 14th Gen",
+  "microarchitecture": "Raptor Lake Refresh",
+  "coreFamily": "Raptor Cove / Gracemont",
+  "socket": "LGA 1700",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/236788/intel-core-i5-processor-14600kf-24m-cache-up-to-5-30-ghz/specifications.html"
+  }
+}

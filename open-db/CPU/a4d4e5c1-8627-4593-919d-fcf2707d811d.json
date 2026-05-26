@@ -1,0 +1,58 @@
+{
+  "opendb_id": "a4d4e5c1-8627-4593-919d-fcf2707d811d",
+  "cores": {
+    "total": 24,
+    "performance": 8,
+    "efficiency": 16,
+    "threads": 24
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.7,
+      "boost": 5.7
+    },
+    "efficiency": {
+      "base": 3.2,
+      "boost": 4.6
+    }
+  },
+  "cache": {
+    "l1": "192 KB per core",
+    "l2": 40,
+    "l3": 36
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "Intel Graphics",
+      "baseClock": 300,
+      "boostClock": 2000,
+      "shaderCount": 4
+    },
+    "memory": {
+      "maxSupport": 256,
+      "types": ["DDR5"],
+      "channels": 2
+    },
+    "tdp": 125,
+    "eccSupport": true,
+    "includesCooler": false,
+    "packaging": "Boxed",
+    "lithography": "TSMC N3B",
+    "simultaneousMultithreading": false
+  },
+  "metadata": {
+    "name": "Intel Core Ultra 9 285K",
+    "manufacturer": "Intel",
+    "part_numbers": ["5032037281928", "BX80768285K", "Intel Core Ultra 9 285K"],
+    "series": "Intel Core Ultra 9 200",
+    "variant": "285K",
+    "releaseYear": 2024
+  },
+  "series": "Core Ultra 9 200",
+  "microarchitecture": "Arrow Lake",
+  "coreFamily": "Lion Cove / Skymont",
+  "socket": "LGA 1851",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html"
+  }
+}

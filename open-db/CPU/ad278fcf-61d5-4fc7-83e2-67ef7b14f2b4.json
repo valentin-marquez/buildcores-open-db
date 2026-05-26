@@ -1,0 +1,52 @@
+{
+  "opendb_id": "ad278fcf-61d5-4fc7-83e2-67ef7b14f2b4",
+  "cores": {
+    "total": 2,
+    "performance": 2,
+    "threads": 2
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.2,
+      "boost": null
+    }
+  },
+  "cache": {
+    "l1": "128 KB",
+    "l2": 0.5,
+    "l3": 3
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "Intel HD Graphics",
+      "baseClock": 350,
+      "boostClock": 1100
+    },
+    "memory": {
+      "maxSupport": 32,
+      "types": ["DDR3"],
+      "channels": 2
+    },
+    "tdp": 53,
+    "eccSupport": false,
+    "includesCooler": false,
+    "packaging": "OEM/Tray",
+    "lithography": "22 nm",
+    "simultaneousMultithreading": false
+  },
+  "metadata": {
+    "name": "Intel Pentium G3250",
+    "manufacturer": "Intel",
+    "part_numbers": ["G3250", "BX80646G3250", "CM8064601482505", "Intel Pentium G3250"],
+    "series": "Intel Pentium G3000",
+    "variant": "G3250",
+    "releaseYear": 2014
+  },
+  "series": "Pentium G3000",
+  "microarchitecture": "Haswell",
+  "coreFamily": "Haswell",
+  "socket": "LGA 1150",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/83538/intel-pentium-processor-g3250-3m-cache-3-20-ghz/specifications.html"
+  }
+}

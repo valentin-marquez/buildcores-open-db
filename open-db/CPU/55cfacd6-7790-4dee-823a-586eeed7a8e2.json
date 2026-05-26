@@ -1,0 +1,53 @@
+{
+  "opendb_id": "55cfacd6-7790-4dee-823a-586eeed7a8e2",
+  "cores": {
+    "total": 8,
+    "threads": 16
+  },
+  "clocks": {
+    "performance": {
+      "base": 4.2,
+      "boost": 5.1
+    }
+  },
+  "cache": {
+    "l1": "512 KB",
+    "l2": 8,
+    "l3": 16
+  },
+  "specifications": {
+    "tdp": 65,
+    "ppt": 88,
+    "integratedGraphics": {
+      "model": "AMD Radeon 780M Graphics",
+      "baseClock": null,
+      "boostClock": 2900,
+      "shaderCount": 768
+    },
+    "memory": {
+      "types": ["DDR5"],
+      "channels": 2,
+      "maxSupport": 256
+    },
+    "eccSupport": true,
+    "packaging": null,
+    "lithography": "TSMC 4nm FinFET",
+    "simultaneousMultithreading": true,
+    "includesCooler": null
+  },
+  "metadata": {
+    "name": "AMD Ryzen 7 8700G",
+    "part_numbers": ["CGPAMDR78700G"],
+    "series": "Ryzen 7 8000",
+    "variant": "8700G",
+    "manufacturer": "AMD",
+    "releaseYear": 2024
+  },
+  "series": "AMD Ryzen 7 8000",
+  "microarchitecture": "Zen 4",
+  "coreFamily": "Phoenix",
+  "socket": "AM5",
+  "general_product_information": {
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-7-8700g.html"
+  }
+}

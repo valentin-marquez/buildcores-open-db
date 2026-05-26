@@ -1,0 +1,29 @@
+{
+  "opendb_id": "7e1830c5-22ce-471a-aebc-e1a4ad620bba",
+  "form_factor": "Micro ATX Slim Tower",
+  "supported_motherboard_form_factors": ["Micro ATX", "Mini-ITX"],
+  "color": ["BLACK"],
+  "power_supply_included": true,
+  "power_supply": "650W included",
+  "side_panel": "Mesh",
+  "has_transparent_side_panel": false,
+  "front_usb_ports": ["1x USB 3.0", "1x USB Type-C", "1x USB 2.0"],
+  "internal_3_5_bays": 1,
+  "internal_2_5_bays": 2,
+  "expansion_slots": 2,
+  "dimensions": "290 x 95 x 285",
+  "dimensions_mm": {
+    "depth": 290,
+    "width": 95,
+    "height": 285
+  },
+  "weight": 22.05,
+  "metadata": {
+    "name": "Esgaming J01 Micro ATX Slim Tower Black",
+    "manufacturer": "Esgaming",
+    "part_numbers": ["4012025090054", "J01"],
+    "series": "J01",
+    "variant": "",
+    "manufacturer_color": "Black"
+  }
+}

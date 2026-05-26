@@ -1,0 +1,55 @@
+{
+  "opendb_id": "4faa8be1-a794-4a20-8def-78abfeb44bfa",
+  "cores": {
+    "total": 20,
+    "performance": 8,
+    "efficiency": 12,
+    "threads": 20
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.9,
+      "boost": 5.5
+    },
+    "efficiency": {
+      "base": 3.3,
+      "boost": 4.6
+    }
+  },
+  "cache": {
+    "l1": "192 KB per core",
+    "l2": 36,
+    "l3": 30
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "None"
+    },
+    "memory": {
+      "maxSupport": 256,
+      "types": ["DDR5"],
+      "channels": 2
+    },
+    "tdp": 125,
+    "eccSupport": false,
+    "includesCooler": false,
+    "packaging": "Boxed",
+    "lithography": "TSMC N3B",
+    "simultaneousMultithreading": false
+  },
+  "metadata": {
+    "name": "Intel Core Ultra 7 265KF",
+    "manufacturer": "Intel",
+    "part_numbers": ["CP265ITL02", "BX80768265KF", "Intel Core Ultra 7 265KF"],
+    "series": "Intel Core Ultra 7 200",
+    "variant": "265KF",
+    "releaseYear": 2024
+  },
+  "series": "Core Ultra 7 200",
+  "microarchitecture": "Arrow Lake",
+  "coreFamily": "Lion Cove / Skymont",
+  "socket": "LGA 1851",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/241062/intel-core-ultra-7-processor-265kf-30m-cache-up-to-5-50-ghz/specifications.html"
+  }
+}

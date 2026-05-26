@@ -1,0 +1,54 @@
+{
+  "opendb_id": "8d9af752-272d-4157-b477-299faa998e14",
+  "cores": {
+    "total": 16,
+    "performance": 16,
+    "threads": 32
+  },
+  "clocks": {
+    "performance": {
+      "base": 4.3,
+      "boost": 5.6
+    }
+  },
+  "cache": {
+    "l1": "1280 KB",
+    "l2": 16,
+    "l3": 192
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "AMD Radeon Graphics",
+      "baseClock": 400,
+      "boostClock": 2200,
+      "shaderCount": 128
+    },
+    "memory": {
+      "maxSupport": 256,
+      "types": ["DDR5"],
+      "channels": 2
+    },
+    "tdp": 200,
+    "ppt": 230,
+    "eccSupport": true,
+    "includesCooler": false,
+    "packaging": "OEM/Tray",
+    "lithography": "TSMC 4nm FinFET, TSMC 6nm FinFET",
+    "simultaneousMultithreading": true
+  },
+  "metadata": {
+    "name": "AMD Ryzen 9 9950X3D2 Dual Edition",
+    "manufacturer": "AMD",
+    "part_numbers": ["730143318327", "100-100001978WOF", "AMD Ryzen 9 9950X3D2 Dual Edition"],
+    "series": "AMD Ryzen 9 9000",
+    "variant": "9950X3D2 Dual Edition",
+    "releaseYear": 2026
+  },
+  "series": "Ryzen 9 9000",
+  "microarchitecture": "Zen 5",
+  "coreFamily": "Granite Ridge",
+  "socket": "AM5",
+  "general_product_information": {
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d2-dual-edition.html"
+  }
+}

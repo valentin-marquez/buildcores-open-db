@@ -1,0 +1,36 @@
+{
+  "opendb_id": "30301552-655e-42f0-9a9f-ea0032c8314c",
+  "form_factor": "ATX Mid Tower",
+  "supported_motherboard_form_factors": ["ATX", "Micro ATX", "Mini-ITX", "SSI CEB"],
+  "color": ["BLACK"],
+  "lighting": ["ARGB", "Display"],
+  "power_supply_included": false,
+  "supported_power_supply_form_factors": ["ATX"],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "front_usb_ports": ["2x USB 3.2 Gen 1 Type-A", "1x USB 3.2 Gen 2x2 Type-C"],
+  "max_video_card_length": 430,
+  "max_cpu_cooler_height": 175,
+  "max_psu_length": 200,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 2,
+  "expansion_slots": 7,
+  "dimensions": "460 x 235 x 493",
+  "dimensions_mm": {
+    "depth": 460,
+    "width": 235,
+    "height": 493
+  },
+  "weight": 22.05,
+  "metadata": {
+    "name": "Cougar CFV235 Vision ATX Mid Tower Black",
+    "manufacturer": "Cougar",
+    "part_numbers": ["382DA40.0003"],
+    "series": "CFV235 Vision",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://cougargaming.com/us/products/cases/cfv235-vision/"
+  }
+}

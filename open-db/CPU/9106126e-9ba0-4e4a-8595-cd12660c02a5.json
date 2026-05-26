@@ -1,0 +1,53 @@
+{
+  "opendb_id": "9106126e-9ba0-4e4a-8595-cd12660c02a5",
+  "cores": {
+    "total": 12,
+    "threads": 20,
+    "performance": 8,
+    "efficiency": 4
+  },
+  "clocks": {
+    "performance": {
+      "base": 2.1,
+      "boost": 4.9
+    },
+    "efficiency": {
+      "base": 1.6,
+      "boost": 3.6
+    }
+  },
+  "cache": {
+    "l1": "1024 KB",
+    "l2": 12,
+    "l3": 25
+  },
+  "specifications": {
+    "tdp": 65,
+    "integratedGraphics": null,
+    "memory": {
+      "types": ["DDR4", "DDR5"],
+      "channels": 2,
+      "maxSupport": 128
+    },
+    "eccSupport": false,
+    "packaging": null,
+    "lithography": "Intel 7",
+    "simultaneousMultithreading": true,
+    "includesCooler": null
+  },
+  "metadata": {
+    "name": "Intel Core i7-12700F",
+    "part_numbers": ["CP727ITL03"],
+    "series": "Core i7 12th Gen",
+    "variant": "12700F",
+    "manufacturer": "Intel",
+    "releaseYear": 2022
+  },
+  "series": "Intel Core i7 12th Gen",
+  "microarchitecture": "Alder Lake",
+  "coreFamily": "Golden Cove / Gracemont",
+  "socket": "LGA 1700",
+  "general_product_information": {
+    "manufacturer_url": "https://www.intel.com/content/www/us/en/products/sku/134593/intel-core-i712700f-processor-25m-cache-up-to-4-90-ghz/specifications.html"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "opendb_id": "581a3028-41f0-4192-bd3b-91df28e63067",
+  "cores": {
+    "total": 12,
+    "performance": 12,
+    "threads": 24
+  },
+  "clocks": {
+    "performance": {
+      "base": 4.4,
+      "boost": 5.5
+    }
+  },
+  "cache": {
+    "l1": "960 KB",
+    "l2": 12,
+    "l3": 128
+  },
+  "specifications": {
+    "integratedGraphics": {
+      "model": "AMD Radeon Graphics",
+      "baseClock": 400,
+      "boostClock": 2200,
+      "shaderCount": 128
+    },
+    "memory": {
+      "maxSupport": 256,
+      "types": ["DDR5"],
+      "channels": 2
+    },
+    "tdp": 120,
+    "ppt": 162,
+    "eccSupport": true,
+    "includesCooler": false,
+    "packaging": null,
+    "lithography": "TSMC 4nm FinFET, TSMC 6nm FinFET",
+    "simultaneousMultithreading": true
+  },
+  "metadata": {
+    "name": "AMD Ryzen 9 9900X3D",
+    "manufacturer": "AMD",
+    "part_numbers": ["CGPAMDR99900X3D", "100-100001368WOF", "AMD Ryzen 9 9900X3D"],
+    "series": "AMD Ryzen 9 9000",
+    "variant": "9900X3D",
+    "releaseYear": 2025
+  },
+  "series": "Ryzen 9 9000",
+  "microarchitecture": "Zen 5",
+  "coreFamily": "Granite Ridge",
+  "socket": "AM5",
+  "general_product_information": {
+    "manufacturer_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9900x3d.html"
+  }
+}
