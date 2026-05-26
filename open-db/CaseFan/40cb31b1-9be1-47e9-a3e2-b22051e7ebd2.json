@@ -1,0 +1,30 @@
+{
+  "opendb_id": "40cb31b1-9be1-47e9-a3e2-b22051e7ebd2",
+  "metadata": {
+    "name": "GameMax FN-12Rainbow-Q-Infinity ARGB 120mm",
+    "manufacturer": "GameMax",
+    "part_numbers": ["FN-12RAINBOW-Q-INFINITY"],
+    "series": "FN-12Rainbow-Q-Infinity",
+    "variant": "",
+    "manufacturer_color": "Black",
+    "last_manually_spec_verified_at": "2026-05-25T00:00:00.000Z"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 1,
+  "min_airflow": null,
+  "max_airflow": 37,
+  "min_noise_level": null,
+  "max_noise_level": 22.1,
+  "pwm": false,
+  "led": "Addressable RGB",
+  "connector": "3-pin + 3-pin 5V Addressable RGB",
+  "controller": "None",
+  "static_pressure": 0.76,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {
+    "manufacturer_url": "https://gamemaxpc.com/argb-force/1229.html"
+  }
+}

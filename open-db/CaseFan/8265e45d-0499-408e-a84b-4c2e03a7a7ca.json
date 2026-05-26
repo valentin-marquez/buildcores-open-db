@@ -1,0 +1,30 @@
+{
+  "opendb_id": "8265e45d-0499-408e-a84b-4c2e03a7a7ca",
+  "metadata": {
+    "name": "XYZ Vortex Pro ARGB Reverse Black 120mm 3-Pack Kit",
+    "manufacturer": "XYZ PC Gear",
+    "part_numbers": ["X-FN-VORPROKIT-BR"],
+    "series": "Vortex Pro ARGB",
+    "variant": "Kit",
+    "manufacturer_color": "Black",
+    "last_manually_spec_verified_at": "2026-05-25T00:00:00.000Z"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 3,
+  "min_airflow": null,
+  "max_airflow": 54.73,
+  "min_noise_level": 18.5,
+  "max_noise_level": 31.4,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "None",
+  "static_pressure": 2.05,
+  "flow_direction": "Reverse",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {
+    "manufacturer_url": "https://xyzpcgear.com/product/vortex-pro-bk/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "662c1e6a-1816-4102-9848-50d1e7c86891",
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": ["ARGB"],
+  "length": null,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "Esgaming ES-RGB750W 750W 80+ Bronze RGB Fully Modular ATX",
+    "manufacturer": "Esgaming",
+    "part_numbers": ["ES-RGB750W", "8032025090027"],
+    "series": "ES-RGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  }
+}

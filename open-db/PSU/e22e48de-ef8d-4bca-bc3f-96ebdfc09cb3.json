@@ -1,0 +1,29 @@
+{
+  "opendb_id": "e22e48de-ef8d-4bca-bc3f-96ebdfc09cb3",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": null,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": null,
+    "sata": 2,
+    "molex_4_pin": 2,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "Clio ATX-650W 650W Non-Modular",
+    "manufacturer": "Clio",
+    "part_numbers": ["ATX-650W"],
+    "series": "ATX",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

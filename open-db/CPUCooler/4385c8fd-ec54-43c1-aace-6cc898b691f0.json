@@ -1,0 +1,43 @@
+{
+  "opendb_id": "4385c8fd-ec54-43c1-aace-6cc898b691f0",
+  "metadata": {
+    "name": "Antec A30 Pro",
+    "manufacturer": "Antec",
+    "part_numbers": ["A30 PRO"],
+    "series": "A30 Pro",
+    "variant": "",
+    "releaseYear": null,
+    "manufacturer_color": null
+  },
+  "min_fan_rpm": null,
+  "max_fan_rpm": 1800,
+  "min_noise_level": null,
+  "max_noise_level": 35,
+  "color": null,
+  "lighting": ["Fixed"],
+  "height": 122,
+  "cpu_sockets": [
+    "LGA 1700",
+    "LGA 1200",
+    "LGA 1151v2",
+    "LGA 1151",
+    "LGA 1150",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 775",
+    "AM5",
+    "AM4",
+    "AM3+",
+    "AM3",
+    "AM2+",
+    "AM2",
+    "FM2",
+    "FM1"
+  ],
+  "water_cooled": false,
+  "radiator_size": null,
+  "fanless": false,
+  "fan_size": 92,
+  "fan_quantity": 1,
+  "general_product_information": null
+}

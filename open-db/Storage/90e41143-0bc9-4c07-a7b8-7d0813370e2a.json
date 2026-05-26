@@ -1,0 +1,18 @@
+{
+  "opendb_id": "90e41143-0bc9-4c07-a7b8-7d0813370e2a",
+  "metadata": {
+    "name": "Ubiquiti UniFi Enterprise 24TB 3.5\" 7200RPM SATA 6Gb/s 512MB Cache HDD",
+    "manufacturer": "Ubiquiti",
+    "series": "UniFi Enterprise HDD",
+    "variant": "",
+    "part_numbers": ["UACC-HDD-E-24TB"]
+  },
+  "capacity": 24000,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "rpm": 7200,
+  "cache": 512,
+  "lighting": []
+}

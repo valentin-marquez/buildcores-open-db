@@ -1,0 +1,29 @@
+{
+  "opendb_id": "8cec865e-0641-4bb5-8b45-1cd4405eb1e9",
+  "wattage": 1300,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 2,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 12,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master X Silent MAX Platinum 1300 1300W 80+ Platinum ATX 3.1 Fully Modular",
+    "manufacturer": "Cooler Master",
+    "part_numbers": ["MPS-D001-AFAP-NBWO", "MPS-D001-AFAP-BUS"],
+    "series": "X Silent MAX Platinum",
+    "variant": "",
+    "releaseYear": 2024,
+    "manufacturer_color": "Black"
+  }
+}

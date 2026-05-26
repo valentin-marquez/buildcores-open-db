@@ -1,0 +1,29 @@
+{
+  "opendb_id": "6e955784-e0a8-4042-b439-cd8b322ca177",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "Gigabyte UD1000GM PG5 V2 1000W 80+ Gold",
+    "manufacturer": "Gigabyte",
+    "part_numbers": ["GP-UD1000GM PG5 V2", "4719331556136"],
+    "series": "UD PG5",
+    "variant": "V2",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

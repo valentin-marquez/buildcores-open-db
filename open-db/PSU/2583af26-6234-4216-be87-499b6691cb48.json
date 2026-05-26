@@ -1,0 +1,29 @@
+{
+  "opendb_id": "2583af26-6234-4216-be87-499b6691cb48",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec CSK Pro 850W 80+ Bronze Semi-Modular ATX 3.1",
+    "manufacturer": "Antec",
+    "part_numbers": ["CSK850 Pro", "0-761345-20069-1"],
+    "series": "CSK Pro",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Semi-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

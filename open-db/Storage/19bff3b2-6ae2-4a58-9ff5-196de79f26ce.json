@@ -1,0 +1,18 @@
+{
+  "opendb_id": "19bff3b2-6ae2-4a58-9ff5-196de79f26ce",
+  "metadata": {
+    "name": "Ubiquiti UniFi Enterprise 8TB 3.5\" 7200RPM SATA 6Gb/s 256MB Cache HDD",
+    "manufacturer": "Ubiquiti",
+    "series": "UniFi Enterprise HDD",
+    "variant": "",
+    "part_numbers": ["UACC-HDD-E-8TB"]
+  },
+  "capacity": 8000,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "rpm": 7200,
+  "cache": 256,
+  "lighting": []
+}

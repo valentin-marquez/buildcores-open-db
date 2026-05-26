@@ -1,0 +1,29 @@
+{
+  "opendb_id": "d6873d0d-696c-4e6c-a955-2b3b28873d03",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "Antec Atom G650 650W 80+ Gold Semi-Modular",
+    "manufacturer": "Antec",
+    "part_numbers": ["G650 EC", "0-761345-20032-5"],
+    "series": "Atom G",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

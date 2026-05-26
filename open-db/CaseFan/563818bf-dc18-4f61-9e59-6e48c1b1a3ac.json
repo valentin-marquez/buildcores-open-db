@@ -1,0 +1,27 @@
+{
+  "opendb_id": "563818bf-dc18-4f61-9e59-6e48c1b1a3ac",
+  "metadata": {
+    "name": "Cooler Master MasterFan MF120 Lite ARGB 120mm PWM Case Fan Black 3-Pack",
+    "manufacturer": "Cooler Master",
+    "part_numbers": ["MFW-B2DN-173PA-R1"],
+    "series": "MasterFan MF120 Lite ARGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 3,
+  "min_airflow": null,
+  "max_airflow": 70.5,
+  "min_noise_level": null,
+  "max_noise_level": 30,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": null,
+  "static_pressure": 2,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {}
+}

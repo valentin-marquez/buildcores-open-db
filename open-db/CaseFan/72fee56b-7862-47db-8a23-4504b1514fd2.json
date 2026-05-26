@@ -1,0 +1,27 @@
+{
+  "opendb_id": "72fee56b-7862-47db-8a23-4504b1514fd2",
+  "metadata": {
+    "name": "Cougar Apolar 120 ARGB Reverse Blade White 120mm PWM Case Fan",
+    "manufacturer": "Cougar",
+    "part_numbers": ["3MARW12A1.0002"],
+    "series": "Apolar 120 ARGB Reverse Blade",
+    "variant": "",
+    "manufacturer_color": "White"
+  },
+  "size": 120,
+  "color": ["WHITE"],
+  "quantity": 1,
+  "min_airflow": null,
+  "max_airflow": 75.38,
+  "min_noise_level": null,
+  "max_noise_level": 37.1,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": null,
+  "static_pressure": 2.59,
+  "flow_direction": "Reverse",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {}
+}

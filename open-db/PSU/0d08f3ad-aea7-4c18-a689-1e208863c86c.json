@@ -1,0 +1,29 @@
+{
+  "opendb_id": "0d08f3ad-aea7-4c18-a689-1e208863c86c",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "GameMax GP-850 850W 80+ Bronze",
+    "manufacturer": "GameMax",
+    "part_numbers": ["GP-850"],
+    "series": "GP",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": 150,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

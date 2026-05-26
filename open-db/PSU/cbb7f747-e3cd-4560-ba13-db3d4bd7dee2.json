@@ -1,0 +1,21 @@
+{
+  "opendb_id": "cbb7f747-e3cd-4560-ba13-db3d4bd7dee2",
+  "connectors": null,
+  "metadata": {
+    "name": "Clio ATX-700 700W Non-Modular",
+    "manufacturer": "Clio",
+    "part_numbers": ["ATX-700", "100050080016"],
+    "series": "ATX",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 700,
+  "form_factor": "ATX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

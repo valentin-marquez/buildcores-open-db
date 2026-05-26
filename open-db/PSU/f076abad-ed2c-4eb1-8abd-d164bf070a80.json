@@ -1,0 +1,29 @@
+{
+  "opendb_id": "f076abad-ed2c-4eb1-8abd-d164bf070a80",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 8,
+    "sata": 8,
+    "molex_4_pin": 8,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Corsair HX1200i 1200W 80+ Platinum",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CP-9020281-NA", "840440495208"],
+    "series": "HXi",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 1200,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "length": 200,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

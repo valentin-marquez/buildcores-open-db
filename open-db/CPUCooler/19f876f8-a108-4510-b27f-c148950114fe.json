@@ -1,0 +1,42 @@
+{
+  "opendb_id": "19f876f8-a108-4510-b27f-c148950114fe",
+  "metadata": {
+    "name": "Esgaming CZ-360B-BK 360 ARGB Black",
+    "manufacturer": "Esgaming",
+    "part_numbers": ["CZ-360B-BK"],
+    "series": "CZ-360B",
+    "variant": "",
+    "releaseYear": null,
+    "manufacturer_color": "Black"
+  },
+  "min_fan_rpm": null,
+  "max_fan_rpm": null,
+  "min_noise_level": null,
+  "max_noise_level": null,
+  "color": ["BLACK"],
+  "lighting": ["ARGB"],
+  "height": null,
+  "cpu_sockets": [
+    "LGA 2066",
+    "LGA 2011",
+    "LGA 1700",
+    "LGA 1366",
+    "LGA 1200",
+    "LGA 1151",
+    "LGA 1150",
+    "LGA 1155",
+    "LGA 1156",
+    "AM5",
+    "AM4",
+    "AM3+",
+    "AM3",
+    "FM2+",
+    "FM2"
+  ],
+  "water_cooled": true,
+  "radiator_size": 360,
+  "fanless": false,
+  "fan_size": 120,
+  "fan_quantity": 3,
+  "general_product_information": null
+}

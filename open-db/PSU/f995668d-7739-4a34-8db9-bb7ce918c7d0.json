@@ -1,0 +1,29 @@
+{
+  "opendb_id": "f995668d-7739-4a34-8db9-bb7ce918c7d0",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 5,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec Atom B750 EC 750W 80+ Bronze Non-Modular",
+    "manufacturer": "Antec",
+    "part_numbers": ["0-761345-20003-5", "ATOM-B750"],
+    "series": "Atom",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

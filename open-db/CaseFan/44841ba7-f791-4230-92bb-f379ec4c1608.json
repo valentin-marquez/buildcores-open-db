@@ -1,0 +1,27 @@
+{
+  "opendb_id": "44841ba7-f791-4230-92bb-f379ec4c1608",
+  "metadata": {
+    "name": "GameMax FN-12Rainbow-C9 120mm ARGB Infinity Case Fan",
+    "manufacturer": "GameMax",
+    "part_numbers": ["FN-12RAINBOW-C9", "FN-12Rainbow-C9"],
+    "series": "FN-12Rainbow",
+    "variant": "C9",
+    "manufacturer_color": "Black"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 1,
+  "min_airflow": null,
+  "max_airflow": 56.62,
+  "min_noise_level": null,
+  "max_noise_level": 28.8,
+  "pwm": false,
+  "led": "Addressable RGB",
+  "connector": "3-pin 5V Addressable RGB + Molex",
+  "controller": null,
+  "static_pressure": 0.76,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {}
+}

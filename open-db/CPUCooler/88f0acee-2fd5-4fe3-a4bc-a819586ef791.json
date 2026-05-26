@@ -1,0 +1,35 @@
+{
+  "opendb_id": "88f0acee-2fd5-4fe3-a4bc-a819586ef791",
+  "metadata": {
+    "name": "GameMax Sigma 520 Digital Black",
+    "manufacturer": "GameMax",
+    "part_numbers": ["SIGMA520DIGITALBK"],
+    "series": "Sigma 520 Digital",
+    "variant": "",
+    "releaseYear": null,
+    "manufacturer_color": "Black"
+  },
+  "min_fan_rpm": 800,
+  "max_fan_rpm": 1800,
+  "min_noise_level": null,
+  "max_noise_level": 33.8,
+  "color": ["BLACK"],
+  "height": 157,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1200",
+    "LGA 1366",
+    "LGA 1700"
+  ],
+  "water_cooled": false,
+  "radiator_size": null,
+  "fanless": false,
+  "fan_size": 120,
+  "fan_quantity": 1,
+  "lighting": ["ARGB", "Display"]
+}

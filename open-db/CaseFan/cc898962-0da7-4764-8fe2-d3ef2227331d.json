@@ -1,0 +1,27 @@
+{
+  "opendb_id": "cc898962-0da7-4764-8fe2-d3ef2227331d",
+  "metadata": {
+    "name": "Antec Connect C120 ARGB 120mm PWM Case Fan Black 3-Pack",
+    "manufacturer": "Antec",
+    "part_numbers": ["0-761345-40046-6", "C120 ARGB_3PK"],
+    "series": "Connect C120 ARGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 3,
+  "min_airflow": null,
+  "max_airflow": 65.08,
+  "min_noise_level": 19.7,
+  "max_noise_level": 28,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": null,
+  "static_pressure": 1.7,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {}
+}

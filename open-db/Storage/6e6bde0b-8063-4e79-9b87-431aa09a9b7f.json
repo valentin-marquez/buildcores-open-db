@@ -1,0 +1,18 @@
+{
+  "opendb_id": "6e6bde0b-8063-4e79-9b87-431aa09a9b7f",
+  "metadata": {
+    "name": "Seagate BarraCuda 8TB 3.5\" 5400RPM SATA 6Gb/s 256MB Cache",
+    "manufacturer": "Seagate",
+    "series": "BarraCuda",
+    "variant": "",
+    "part_numbers": ["DH968SEA14", "ST8000DM004"]
+  },
+  "capacity": 8000,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "rpm": 5400,
+  "cache": 256,
+  "lighting": []
+}

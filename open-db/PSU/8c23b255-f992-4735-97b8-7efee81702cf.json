@@ -1,0 +1,20 @@
+{
+  "opendb_id": "8c23b255-f992-4735-97b8-7efee81702cf",
+  "wattage": 500,
+  "form_factor": null,
+  "efficiency_rating": "80+ Platinum",
+  "modular": null,
+  "color": null,
+  "lighting": null,
+  "length": 225,
+  "fanless": false,
+  "connectors": null,
+  "metadata": {
+    "name": "HPE 500W Flex Slot Platinum Hot Plug Low Halogen Power Supply Kit",
+    "manufacturer": "HPE",
+    "part_numbers": ["CS892HPS23", "865408-B21", "866729-001"],
+    "series": "Flex Slot Platinum Hot Plug",
+    "variant": "",
+    "manufacturer_color": null
+  }
+}

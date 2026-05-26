@@ -1,0 +1,27 @@
+{
+  "opendb_id": "a9cc5c56-82c4-42e8-8f6b-71c9f0697574",
+  "metadata": {
+    "name": "XYZ PC Gear Vortex Pro 120mm ARGB Daisy-Chain Case Fan Black 3-Pack",
+    "manufacturer": "XYZ PC Gear",
+    "part_numbers": ["X-FN-VORPROKIT-B"],
+    "series": "Vortex Pro",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 3,
+  "min_airflow": null,
+  "max_airflow": 62.7,
+  "min_noise_level": 18.5,
+  "max_noise_level": 32,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "Daisy-Chain (4-pin PWM + 3-pin 5V Addressable RGB)",
+  "controller": null,
+  "static_pressure": 2.68,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {}
+}

@@ -1,0 +1,27 @@
+{
+  "opendb_id": "5c0e1dc4-a266-4312-8313-4788ded49463",
+  "metadata": {
+    "name": "Formula V Line Cosmic 12 FR Black 120mm Fixed RGB Molex Case Fan",
+    "manufacturer": "Formula V Line",
+    "part_numbers": ["COSMIC-12BK-FR", "COSMIC 12BK FR"],
+    "series": "Cosmic 12 FR",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 1,
+  "min_airflow": null,
+  "max_airflow": 37.2,
+  "min_noise_level": null,
+  "max_noise_level": 22.3,
+  "pwm": false,
+  "led": "RGB",
+  "connector": "Molex + 3-pin",
+  "controller": null,
+  "static_pressure": 1.41,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["Fixed"],
+  "general_product_information": {}
+}

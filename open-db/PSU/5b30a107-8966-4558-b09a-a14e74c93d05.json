@@ -1,0 +1,29 @@
+{
+  "opendb_id": "5b30a107-8966-4558-b09a-a14e74c93d05",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 4,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master Elite Gold 650 650W 80+ Gold Fully Modular ATX 3.1",
+    "manufacturer": "Cooler Master",
+    "part_numbers": ["MPX-6505-AFAG-BWO", "MPX-6505-AFAG"],
+    "series": "Elite Gold",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

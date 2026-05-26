@@ -1,0 +1,29 @@
+{
+  "opendb_id": "a2657f4a-74b9-4f84-a693-3a494822bf3b",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "Gigabyte UD850GM 850W 80+ Gold Fully Modular",
+    "manufacturer": "Gigabyte",
+    "part_numbers": ["GP-UD850GM", "4711331552633"],
+    "series": "UD GM",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

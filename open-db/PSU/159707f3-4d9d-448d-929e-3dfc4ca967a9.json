@@ -1,0 +1,29 @@
+{
+  "opendb_id": "159707f3-4d9d-448d-929e-3dfc4ca967a9",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "Esgaming ES-RGB750W 750W 80+ Gold Non-Modular RGB",
+    "manufacturer": "Esgaming",
+    "part_numbers": ["ES-RGB750W"],
+    "series": "ES-RGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["RGB"],
+  "general_product_information": {}
+}

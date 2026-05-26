@@ -1,0 +1,29 @@
+{
+  "opendb_id": "8e6551ad-c544-426d-b5b9-3e143f93b5aa",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": null,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "Gigabyte UD750GM PG5 ICE 750W 80+ Gold Fully Modular",
+    "manufacturer": "Gigabyte",
+    "part_numbers": ["4719331557065", "GP-UD750GM PG5 ICE"],
+    "series": "UD",
+    "variant": "PG5 ICE",
+    "manufacturer_color": "White"
+  },
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["WHITE"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

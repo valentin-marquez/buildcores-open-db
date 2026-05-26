@@ -1,0 +1,30 @@
+{
+  "opendb_id": "6a11a3f6-c4b0-4254-b877-89081fe06b72",
+  "metadata": {
+    "name": "MSI MAG CoreLiquid A13 240 White",
+    "manufacturer": "MSI",
+    "part_numbers": ["0308002A01N-308003"],
+    "series": "MAG CoreLiquid A13",
+    "variant": "",
+    "releaseYear": null,
+    "manufacturer_color": "White"
+  },
+  "min_fan_rpm": null,
+  "max_fan_rpm": null,
+  "min_noise_level": 20,
+  "max_noise_level": null,
+  "color": ["WHITE"],
+  "height": null,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 1700",
+    "LGA 1851"
+  ],
+  "water_cooled": true,
+  "radiator_size": 240,
+  "fanless": false,
+  "fan_size": 120,
+  "fan_quantity": 2,
+  "lighting": ["ARGB"]
+}

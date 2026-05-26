@@ -1,0 +1,18 @@
+{
+  "opendb_id": "8d6402d5-e110-4266-9f75-6279a23b8f92",
+  "metadata": {
+    "name": "Ubiquiti UniFi Enterprise 16TB 3.5\" 7200RPM SATA 6Gb/s 512MB Cache HDD",
+    "manufacturer": "Ubiquiti",
+    "series": "UniFi Enterprise HDD",
+    "variant": "",
+    "part_numbers": ["UACC-HDD-E-16TB"]
+  },
+  "capacity": 16000,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "rpm": 7200,
+  "cache": 512,
+  "lighting": []
+}

@@ -1,0 +1,29 @@
+{
+  "opendb_id": "80f29ed2-f73c-4315-bdee-3105a54d7dc7",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": null,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": null,
+    "sata": null,
+    "molex_4_pin": null,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "Clio V2 500W SFX Slim",
+    "manufacturer": "Clio",
+    "part_numbers": ["500W SLIM SFX"],
+    "series": "Clio",
+    "variant": "V2",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 500,
+  "form_factor": "SFX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

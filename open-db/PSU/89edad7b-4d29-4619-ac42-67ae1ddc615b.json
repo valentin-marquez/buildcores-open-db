@@ -1,0 +1,29 @@
+{
+  "opendb_id": "89edad7b-4d29-4619-ac42-67ae1ddc615b",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 9,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master Elite Gold 1000 1000W 80+ Gold Fully Modular",
+    "manufacturer": "Cooler Master",
+    "part_numbers": ["MPW-A001-AFAG-BWO"],
+    "series": "Elite Gold",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

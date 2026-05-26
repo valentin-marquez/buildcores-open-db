@@ -1,0 +1,27 @@
+{
+  "opendb_id": "64b602b9-4473-4f2e-ada9-f0560d327e18",
+  "metadata": {
+    "name": "Antec F12 Racing ARGB 120mm PWM Case Fan Black 3-Pack with Controller",
+    "manufacturer": "Antec",
+    "part_numbers": ["0-761345-77760-5"],
+    "series": "F12 Racing ARGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 3,
+  "min_airflow": null,
+  "max_airflow": 52.75,
+  "min_noise_level": null,
+  "max_noise_level": 28,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "5V Addressable RGB + PWM",
+  "static_pressure": 1.76,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {}
+}

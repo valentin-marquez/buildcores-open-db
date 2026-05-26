@@ -1,0 +1,29 @@
+{
+  "opendb_id": "c6fd615f-e054-42fc-a7e0-213b2dbfa9c2",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 7,
+    "molex_4_pin": 1,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Gigabyte P750BS 750W 80+ Bronze Non-Modular",
+    "manufacturer": "Gigabyte",
+    "part_numbers": ["GP-P750BS"],
+    "series": "P",
+    "variant": "BS",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

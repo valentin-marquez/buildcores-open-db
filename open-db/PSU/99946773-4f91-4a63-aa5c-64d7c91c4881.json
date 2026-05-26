@@ -1,0 +1,29 @@
+{
+  "opendb_id": "99946773-4f91-4a63-aa5c-64d7c91c4881",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "ESGAMING ES-RGB650W 650W 80+ Bronze ARGB Non-Modular",
+    "manufacturer": "ESGAMING",
+    "part_numbers": ["ES-RGB650W", "8032025090010"],
+    "series": "ES RGB",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {}
+}

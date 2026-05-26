@@ -1,0 +1,30 @@
+{
+  "opendb_id": "dce636a9-5e8a-4c02-8e92-d427be51ce98",
+  "metadata": {
+    "name": "Hype Legend PF2-2 ARGB 120mm",
+    "manufacturer": "Hype Legend",
+    "part_numbers": ["HLVENTPF22"],
+    "series": "PF2-2 ARGB",
+    "variant": "",
+    "manufacturer_color": "Black",
+    "last_manually_spec_verified_at": "2026-05-25T00:00:00.000Z"
+  },
+  "size": 120,
+  "color": ["BLACK"],
+  "quantity": 1,
+  "min_airflow": null,
+  "max_airflow": 32,
+  "min_noise_level": null,
+  "max_noise_level": 22.8,
+  "pwm": false,
+  "led": "Addressable RGB",
+  "connector": "6-pin (fan + ARGB)",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {
+    "manufacturer_url": "https://www.hypelegend.cl/ventilador-pf2-120mmuna-unidad"
+  }
+}

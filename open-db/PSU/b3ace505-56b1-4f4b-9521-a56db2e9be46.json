@@ -1,0 +1,28 @@
+{
+  "opendb_id": "b3ace505-56b1-4f4b-9521-a56db2e9be46",
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK", "WHITE"],
+  "lighting": ["None"],
+  "length": 150,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 5,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "ASUS Prime AP-750G 750W 80+ Gold Fully Modular ATX 3.0",
+    "manufacturer": "ASUS",
+    "part_numbers": ["AP-750G", "4711387193037", "90YE00U1-B0NB00"],
+    "series": "Prime",
+    "variant": "",
+    "manufacturer_color": "Black / White"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "opendb_id": "e08b95de-d8ca-4f83-a4c9-01fb885be576",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 2,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "Clio AC-700W 700W Non-Modular",
+    "manufacturer": "Clio",
+    "part_numbers": ["AC-700W"],
+    "series": "AC",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 700,
+  "form_factor": "ATX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

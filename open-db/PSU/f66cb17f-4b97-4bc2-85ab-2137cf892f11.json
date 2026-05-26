@@ -1,0 +1,29 @@
+{
+  "opendb_id": "f66cb17f-4b97-4bc2-85ab-2137cf892f11",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": null,
+    "sata": null,
+    "molex_4_pin": null,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "Gamemax GE-700 700W 80+ White ATX",
+    "manufacturer": "GameMax",
+    "part_numbers": ["0303021A01N", "GE-700"],
+    "series": "GE",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 700,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ White",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

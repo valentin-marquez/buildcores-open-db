@@ -1,0 +1,28 @@
+{
+  "opendb_id": "26b1e563-b2db-4733-83ee-a17f1aff5ebf",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 4,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master Elite Gold 850 850W 80+ Gold ATX 3.1 Fully Modular",
+    "manufacturer": "Cooler Master",
+    "part_numbers": ["4719512162576", "MPX-8505-AFAG-BWO", "MPX-8505-AFAG-BAU"],
+    "series": "Elite Gold",
+    "variant": "",
+    "manufacturer_color": "Black"
+  }
+}

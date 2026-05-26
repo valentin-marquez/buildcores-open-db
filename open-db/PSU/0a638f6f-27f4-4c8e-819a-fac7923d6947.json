@@ -1,0 +1,28 @@
+{
+  "opendb_id": "0a638f6f-27f4-4c8e-819a-fac7923d6947",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": null,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 6,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "Clio Pro-M 850W 80+ Gold Fully Modular ATX 3.1",
+    "manufacturer": "Clio",
+    "part_numbers": ["ATXPRO-M-850W", "ATX-PRO-M-850W-FM"],
+    "series": "Pro-M",
+    "variant": "",
+    "manufacturer_color": "Black"
+  }
+}

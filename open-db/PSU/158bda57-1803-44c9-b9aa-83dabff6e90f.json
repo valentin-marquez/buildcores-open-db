@@ -1,0 +1,28 @@
+{
+  "opendb_id": "158bda57-1803-44c9-b9aa-83dabff6e90f",
+  "wattage": 650,
+  "form_factor": "SFX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 100,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": null,
+    "sata": null,
+    "molex_4_pin": null,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "GameMax GS-650G 650W 80+ Gold SFX Fully Modular",
+    "manufacturer": "GameMax",
+    "part_numbers": ["SFXGS-650GBLACK", "GS-650G BK"],
+    "series": "GS",
+    "variant": "",
+    "manufacturer_color": "Black"
+  }
+}

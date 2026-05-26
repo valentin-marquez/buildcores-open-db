@@ -1,0 +1,29 @@
+{
+  "opendb_id": "d680148c-6d64-492f-affe-832cdca5c79b",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 5,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec Atom B650 EC 650W 80+ Bronze Non-Modular",
+    "manufacturer": "Antec",
+    "part_numbers": ["B650EC", "0-761345-11283-3"],
+    "series": "Atom",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

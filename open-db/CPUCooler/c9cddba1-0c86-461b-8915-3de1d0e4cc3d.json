@@ -1,0 +1,37 @@
+{
+  "opendb_id": "c9cddba1-0c86-461b-8915-3de1d0e4cc3d",
+  "metadata": {
+    "name": "GameMax Gamma 200 RGB",
+    "manufacturer": "GameMax",
+    "part_numbers": ["GAMEMAX GAMMA200"],
+    "series": "Gamma 200",
+    "variant": "",
+    "releaseYear": null,
+    "manufacturer_color": "Black"
+  },
+  "min_fan_rpm": null,
+  "max_fan_rpm": 1800,
+  "min_noise_level": 23.5,
+  "max_noise_level": null,
+  "color": ["BLACK"],
+  "height": 82,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 775",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1200",
+    "LGA 1366",
+    "LGA 1700",
+    "LGA 1851"
+  ],
+  "water_cooled": false,
+  "radiator_size": null,
+  "fanless": false,
+  "fan_size": 125,
+  "fan_quantity": 1,
+  "lighting": ["ARGB"]
+}

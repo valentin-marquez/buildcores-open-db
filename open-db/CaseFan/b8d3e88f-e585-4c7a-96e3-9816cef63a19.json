@@ -1,0 +1,30 @@
+{
+  "opendb_id": "b8d3e88f-e585-4c7a-96e3-9816cef63a19",
+  "metadata": {
+    "name": "Antec Connect 120 ARGB White 3-Pack 120mm PWM",
+    "manufacturer": "Antec",
+    "part_numbers": ["0-761345-40047-3", "C120 ARGB White_3PK"],
+    "series": "Connect 120 ARGB",
+    "variant": "",
+    "manufacturer_color": "White",
+    "last_manually_spec_verified_at": "2026-05-25T00:00:00.000Z"
+  },
+  "size": 120,
+  "color": ["WHITE"],
+  "quantity": 3,
+  "min_airflow": 33.7,
+  "max_airflow": 65.08,
+  "min_noise_level": 19.7,
+  "max_noise_level": 28,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "None",
+  "static_pressure": 1.7,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "lighting": ["ARGB"],
+  "general_product_information": {
+    "manufacturer_url": "https://www.antec.com/product/cooling/connect120-argb"
+  }
+}

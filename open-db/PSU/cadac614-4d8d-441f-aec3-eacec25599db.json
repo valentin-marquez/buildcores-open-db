@@ -1,0 +1,29 @@
+{
+  "opendb_id": "cadac614-4d8d-441f-aec3-eacec25599db",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Semi-Modular",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec Cuprum Strike CSK1000 Pro 1000W 80+ Bronze ATX 3.1 Semi-Modular",
+    "manufacturer": "Antec",
+    "part_numbers": ["0-761345-20073-8", "CSK1000-PRO-GB-ATX3.1"],
+    "series": "Cuprum Strike CSK Pro",
+    "variant": "",
+    "releaseYear": 2024,
+    "manufacturer_color": "Black"
+  }
+}

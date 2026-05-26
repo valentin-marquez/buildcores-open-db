@@ -1,0 +1,28 @@
+{
+  "opendb_id": "88e74fa8-1797-42bf-ab28-a843e7c17dc0",
+  "wattage": 600,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 2,
+    "floppy_4_pin": null
+  },
+  "metadata": {
+    "name": "Cougar Atlas 600W 80+ Bronze Non-Modular ATX",
+    "manufacturer": "Cougar",
+    "part_numbers": ["31AL060001P01", "CGR BA-600"],
+    "series": "Atlas",
+    "variant": "",
+    "manufacturer_color": "Black"
+  }
+}

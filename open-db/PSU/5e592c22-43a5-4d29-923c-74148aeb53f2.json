@@ -1,0 +1,20 @@
+{
+  "opendb_id": "5e592c22-43a5-4d29-923c-74148aeb53f2",
+  "wattage": 800,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 140,
+  "fanless": false,
+  "connectors": null,
+  "metadata": {
+    "name": "GameMax GX-800 800W 80+ Gold Fully Modular ATX",
+    "manufacturer": "GameMax",
+    "part_numbers": ["GX 800G BK", "GX-800"],
+    "series": "GX",
+    "variant": "",
+    "manufacturer_color": "Black"
+  }
+}

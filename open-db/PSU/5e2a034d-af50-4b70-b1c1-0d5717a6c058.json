@@ -1,0 +1,29 @@
+{
+  "opendb_id": "5e2a034d-af50-4b70-b1c1-0d5717a6c058",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 5,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "XPG Probe 700W 80+ Bronze",
+    "manufacturer": "XPG",
+    "part_numbers": ["PROBE700B-BKCEU"],
+    "series": "Probe",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 700,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}

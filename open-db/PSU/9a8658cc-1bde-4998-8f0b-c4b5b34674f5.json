@@ -1,0 +1,29 @@
+{
+  "opendb_id": "9a8658cc-1bde-4998-8f0b-c4b5b34674f5",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 10,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "GameMax GZ 1200G Black 1200W 80+ Gold Fully Modular ATX 3.1",
+    "manufacturer": "GameMax",
+    "part_numbers": ["GZ 1200G BK"],
+    "series": "GZ",
+    "variant": "",
+    "manufacturer_color": "Black"
+  },
+  "wattage": 1200,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "length": null,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {}
+}
