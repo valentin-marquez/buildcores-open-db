@@ -1,0 +1,32 @@
+{
+  "opendb_id": "f1a5da7e-cbb7-4ed3-94e5-fb96e83ca202",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Seasonic Focus GX-1000 1000W 80+ Gold Fully Modular ATX White",
+    "manufacturer": "Seasonic",
+    "part_numbers": ["FOCUS-GX-1000-WHT", "GX-1000 ( White )", "SSR-1000FX-W", "FOCUS-GX-1000-WHITE"],
+    "series": "Focus GX",
+    "variant": "",
+    "manufacturer_color": "White",
+    "releaseYear": 2024
+  },
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["WHITE"],
+  "length": 140,
+  "fanless": false,
+  "lighting": ["None"],
+  "general_product_information": {
+    "manufacturer_url": "https://seasonic.com/focus-gx/"
+  }
+}
