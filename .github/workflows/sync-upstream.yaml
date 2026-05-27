@@ -1,0 +1,78 @@
+name: Sync upstream BuildCores
+
+# Mantiene el fork al día con upstream BuildCores cada 12 horas.
+# Fast-forward cuando es posible; si hay history divergente intenta merge.
+# Si los commits de upstream tocan archivos que agregamos como aliases
+# locales, se generará un conflict — en ese caso el workflow falla y
+# requiere resolución manual.
+on:
+  schedule:
+    # 00:00 y 12:00 UTC todos los días
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: |
+          git remote add upstream https://github.com/BuildCores/buildcores-open-db.git
+          git fetch upstream main
+
+      - name: Compare SHAs
+        id: cmp
+        run: |
+          LOCAL=$(git rev-parse main)
+          UPSTREAM=$(git rev-parse upstream/main)
+          echo "local=$LOCAL" >> "$GITHUB_OUTPUT"
+          echo "upstream=$UPSTREAM" >> "$GITHUB_OUTPUT"
+          if [[ "$LOCAL" == "$UPSTREAM" ]]; then
+            echo "already_synced=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "already_synced=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Already up to date
+        if: steps.cmp.outputs.already_synced == 'true'
+        run: echo "fork ya está al día con upstream/main (${{ steps.cmp.outputs.local }})"
+
+      - name: Fast-forward merge
+        if: steps.cmp.outputs.already_synced == 'false'
+        id: ff
+        run: |
+          if git merge --ff-only --no-edit upstream/main; then
+            echo "ff_ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ff_ok=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Regular merge (fast-forward no posible)
+        if: steps.cmp.outputs.already_synced == 'false' && steps.ff.outputs.ff_ok == 'false'
+        run: |
+          if ! git merge --no-edit upstream/main; then
+            echo "::error::Merge upstream/main tuvo conflictos. Resolver manualmente."
+            git status
+            exit 1
+          fi
+
+      - name: Push origin/main
+        if: steps.cmp.outputs.already_synced == 'false'
+        run: git push origin main
