@@ -9,9 +9,10 @@
   "metadata": {
     "name": "PNY NVIDIA RTX PRO 5000 Blackwell 48GB",
     "manufacturer": "PNY",
-    "part_numbers": ["https://www.techpowerup.com/gpu-specs/rtx-pro-5000-blackwell.c4276"],
+    "part_numbers": ["rtx-pro-5000"],
     "releaseYear": 2025,
-    "manufacturer_color": "Black"
+    "manufacturer_color": "Black",
+    "series": "RTX PRO Blackwell"
   },
   "chipset_manufacturer": "NVIDIA",
   "chipset": "RTX PRO 5000 Blackwell",
@@ -32,6 +33,7 @@
   "total_slot_width": 2,
   "cooling": "Blower",
   "general_product_information": {
+    "amazon_sku": "B0GLHLSYPC",
     "manufacturer_url": "https://www.pny.com/nvidia-rtx-pro-5000-blackwell"
   }
 }
