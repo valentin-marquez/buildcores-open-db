@@ -20,7 +20,9 @@
       "model": "None"
     },
     "memory": {
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 8,
       "maxSupport": 2048
     },
@@ -34,7 +36,11 @@
   "metadata": {
     "name": "AMD Ryzen Threadripper PRO 9985WX",
     "manufacturer": "AMD",
-    "part_numbers": ["AMD Ryzen Threadripper PRO 9985WX", "100-100000722WOF"],
+    "part_numbers": [
+      "AMD Ryzen Threadripper PRO 9985WX",
+      "100-100000722WOF",
+      "100-100000722WOZ"
+    ],
     "series": "AMD Ryzen Threadripper PRO 9000 WX-Series",
     "variant": "Pro 9985WX",
     "releaseYear": 2025

@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 128,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 65,
@@ -44,7 +46,12 @@
   "metadata": {
     "name": "AMD Ryzen 5 7600 3.8 GHz 6-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100001015BOX", "100-00001015BOX"],
+    "part_numbers": [
+      "100-100001015BOX",
+      "100-00001015BOX",
+      "CP991AMD65",
+      "0306006A06N"
+    ],
     "series": "AMD Ryzen 5 7000",
     "variant": "7600",
     "releaseYear": 2023

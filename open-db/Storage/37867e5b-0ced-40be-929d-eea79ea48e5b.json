@@ -3,7 +3,14 @@
   "metadata": {
     "name": "Kingston KC3000 512GB SSD M.2 PCIe 4.0 NVMe",
     "manufacturer": "Kingston",
-    "part_numbers": ["SKC3000S", "512G", "SKC3000S/512G"],
+    "part_numbers": [
+      "SKC3000S",
+      "512G",
+      "SKC3000S/512G",
+      "DH512KNG07",
+      "740617324402",
+      "SKC3000S512G"
+    ],
     "series": "KC3000",
     "variant": "512GB"
   },

@@ -3,7 +3,10 @@
   "metadata": {
     "name": "KingSpec P3 256GB SSD 2.5\" SATA",
     "manufacturer": "KingSpec",
-    "part_numbers": ["P3-256GB"],
+    "part_numbers": [
+      "P3-256GB",
+      "P3-256"
+    ],
     "series": "P3",
     "variant": "256GB"
   },

@@ -12,7 +12,10 @@
   "metadata": {
     "name": "Asus ROG THOR T3 GAMING Black 1600W Fully Modular 80+ Titanium Certified",
     "manufacturer": "Asus",
-    "part_numbers": ["ROG-THOR-1600T3-GAMING"],
+    "part_numbers": [
+      "ROG-THOR-1600T3-GAMING",
+      "90YE00V1-B0SA00"
+    ],
     "series": "ROG Thor",
     "variant": "1600W Titanium III",
     "manufacturer_color": "Black/Silver"
@@ -21,7 +24,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Titanium",
   "modular": "Full",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 200,
   "fanless": false,
   "lighting": [],

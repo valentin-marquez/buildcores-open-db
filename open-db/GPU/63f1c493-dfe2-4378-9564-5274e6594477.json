@@ -31,7 +31,8 @@
       "RTX 5080 16G SUPRIM SOC",
       "V531-009R",
       "912-V531-009",
-      "GeForce RTX 5080 16G SUPRIM SO"
+      "GeForce RTX 5080 16G SUPRIM SO",
+      "GEFORCE RTX 5080 16G SUPRIM SOC"
     ],
     "series": "SUPRIM",
     "variant": "SOC",
@@ -52,10 +53,15 @@
   "tdp": 360,
   "case_expansion_slot_width": 2,
   "cooling": "3 Fans",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "core_count": 10752,
   "total_slot_width": 3.8,
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DSXJ5QF4",
     "newegg_sku": "N82E16814137906R",

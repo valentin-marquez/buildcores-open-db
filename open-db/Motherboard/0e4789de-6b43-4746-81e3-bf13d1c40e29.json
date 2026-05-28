@@ -35,7 +35,8 @@
       "ROG STRIX Z890-E GAMING WIFI",
       "90MB1IM0-M0EAY0",
       "90MB1IM0-MVAAY0",
-      "ROG STRIX Z890- E GAMING WIFI"
+      "ROG STRIX Z890- E GAMING WIFI",
+      "ROGSTRIXZ890-EGAMINGWIFI"
     ],
     "series": "ROG",
     "variant": ""
@@ -43,7 +44,9 @@
   "socket": "LGA 1851",
   "form_factor": "ATX",
   "chipset": "Intel Z890",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -130,7 +133,9 @@
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
-  "back_panel_ports": ["1 x 5 Gb/s Ports (Realtek)"],
+  "back_panel_ports": [
+    "1 x 5 Gb/s Ports (Realtek)"
+  ],
   "lighting": [],
   "general_product_information": {
     "amazon_sku": "B0DGWRK1PN",

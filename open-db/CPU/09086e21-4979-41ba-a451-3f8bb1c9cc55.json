@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 65,
@@ -44,7 +46,12 @@
   "metadata": {
     "name": "AMD Ryzen 7 9700X 3.8 GHz 8-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100001404WOF", "9700X", "AMD Ryzen™ 7 9700X"],
+    "part_numbers": [
+      "100-100001404WOF",
+      "9700X",
+      "AMD Ryzen™ 7 9700X",
+      "CP991AMD79"
+    ],
     "series": "AMD Ryzen 7 9000",
     "variant": "9700X",
     "releaseYear": 2024

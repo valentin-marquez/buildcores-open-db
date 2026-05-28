@@ -23,7 +23,8 @@
       "GEFORCE RTX 2080 SUPER VENTUS XS OC",
       "V372-292R",
       "G2080SVXC",
-      "GeForce RTX 2080 SUPER VENTUS XS OC"
+      "GeForce RTX 2080 SUPER VENTUS XS OC",
+      "0307002A02U"
     ],
     "series": "GeForce RTX 2080 SUPER",
     "variant": "MSI"
@@ -37,7 +38,10 @@
   "effective_memory_clock": 15500,
   "memory_bus": 0,
   "interface": "PCIe x16",
-  "color": ["GREY", "BLACK"],
+  "color": [
+    "GREY",
+    "BLACK"
+  ],
   "length": 257,
   "tdp": 250,
   "total_slot_width": 3,

@@ -29,7 +29,8 @@
       "G507T-16S3C",
       "GeForce RTX 5070 Ti 16G SHADOW 3X OC",
       "RTX 5070 Ti 16G SHADOW 3X OC",
-      "RTX 5070 TI 16G SHADOW 3X OC"
+      "RTX 5070 TI 16G SHADOW 3X OC",
+      "912-V531-452"
     ],
     "series": "SHADOW 3X ",
     "variant": "OC ",
@@ -46,7 +47,10 @@
   "effective_memory_clock": 1750,
   "memory_bus": 256,
   "interface": "PCIe 5.0 x16",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "length": 303,
   "tdp": 300,
   "total_slot_width": 2.5,
@@ -54,7 +58,9 @@
   "core_count": 8960,
   "frame_sync": "G-Sync",
   "case_expansion_slot_width": 2,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DZZ63JXD",
     "newegg_sku": "N82E16814137935",

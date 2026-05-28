@@ -29,7 +29,9 @@
     "com_port": 1
   },
   "power_connectors": {
-    "cpu_power": ["8-pin"],
+    "cpu_power": [
+      "8-pin"
+    ],
     "main_power": "24-pin"
   },
   "bios_features": {
@@ -45,14 +47,22 @@
     "manufacturer": "ASUS",
     "variant": "B650M-AYW WIFI",
     "manufacturer_color": "Black/Silver",
-    "part_numbers": ["b650m-ayw-wifi"],
+    "part_numbers": [
+      "b650m-ayw-wifi",
+      "B650M-AYWWIFI",
+      "MB000ASU59",
+      "B650M-AYW WIFI"
+    ],
     "series": "AYW",
     "releaseYear": 2020
   },
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD B650",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",

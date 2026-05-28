@@ -30,7 +30,8 @@
       "G5090-32GTC",
       "RTX 5090 32G GAMING TRIO OC",
       "912-V530-014",
-      "V530-014R"
+      "V530-014R",
+      "GEFORCE RTX 5090 32G GAMING TRIO OC"
     ],
     "series": "GAMING TRIO",
     "variant": "OC",
@@ -51,11 +52,16 @@
   "length": 359,
   "tdp": 575,
   "cooling": "3 Fans",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "core_count": 21760,
   "total_slot_width": 3.5,
   "case_expansion_slot_width": 2,
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DT6Q3BXM",
     "newegg_sku": "N82E16814137919",

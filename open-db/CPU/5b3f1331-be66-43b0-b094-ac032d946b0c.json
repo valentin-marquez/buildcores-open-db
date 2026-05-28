@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "eccSupport": true,
@@ -42,7 +44,13 @@
   "metadata": {
     "name": "AMD Ryzen 5 8500G 4.1 GHz 6-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100000931BOX", "AMD Ryzen™ 5 8500G", "Ryzen 5 8500G"],
+    "part_numbers": [
+      "100-100000931BOX",
+      "AMD Ryzen™ 5 8500G",
+      "Ryzen 5 8500G",
+      "CP991AMD91",
+      "730143316439"
+    ],
     "series": "AMD Ryzen 5 8000",
     "variant": "8500G",
     "releaseYear": 2024

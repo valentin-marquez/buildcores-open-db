@@ -32,7 +32,9 @@
     "hdd_led": true
   },
   "power_connectors": {
-    "cpu_power": ["8-pin"],
+    "cpu_power": [
+      "8-pin"
+    ],
     "main_power": "24-pin"
   },
   "bios_features": {
@@ -46,7 +48,10 @@
   "metadata": {
     "name": "Gigabyte B650M D3HP AM5 DDR5 Micro ATX",
     "manufacturer": "Gigabyte",
-    "part_numbers": ["B650M D3HP"],
+    "part_numbers": [
+      "B650M D3HP",
+      "B650MD3HP"
+    ],
     "series": "B650M",
     "variant": "D3HP",
     "last_manually_spec_verified_at": "2026-02-13T09:28:13.882Z"
@@ -54,7 +59,9 @@
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD B650",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",

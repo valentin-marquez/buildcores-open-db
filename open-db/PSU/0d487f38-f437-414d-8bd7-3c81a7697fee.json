@@ -12,7 +12,11 @@
   "metadata": {
     "name": "Antec NeoECO Gold 650W Fully Modular 80+ Gold",
     "manufacturer": "Antec",
-    "part_numbers": ["NE650G M", "X7000A078-20"],
+    "part_numbers": [
+      "NE650G M",
+      "X7000A078-20",
+      "NE650GM"
+    ],
     "series": "NeoECO",
     "variant": "650W Gold"
   },

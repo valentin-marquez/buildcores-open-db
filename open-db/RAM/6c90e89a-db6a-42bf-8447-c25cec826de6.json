@@ -7,7 +7,10 @@
   "metadata": {
     "name": "Kingston FURY Beast DDR5-6000 CL36 16GB EXPO Black",
     "manufacturer": "Kingston",
-    "part_numbers": ["KF560C36BBE-16"],
+    "part_numbers": [
+      "KF560C36BBE-16",
+      "100019203"
+    ],
     "series": "FURY Beast",
     "variant": "",
     "manufacturer_color": "Black"
@@ -16,13 +19,18 @@
   "ram_type": "DDR5",
   "form_factor": "288-pin DIMM",
   "capacity": 16,
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "cas_latency": 36,
   "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": false,
-  "profile_support": ["EXPO", "XMP"],
+  "profile_support": [
+    "EXPO",
+    "XMP"
+  ],
   "lighting": []
 }

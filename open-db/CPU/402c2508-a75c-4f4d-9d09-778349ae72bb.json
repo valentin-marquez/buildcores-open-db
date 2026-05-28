@@ -27,7 +27,10 @@
     },
     "memory": {
       "maxSupport": 192,
-      "types": ["DDR5", "DDR4"],
+      "types": [
+        "DDR5",
+        "DDR4"
+      ],
       "channels": 2
     },
     "tdp": 125,
@@ -41,7 +44,11 @@
   "metadata": {
     "name": "Intel Core i7 14700KF 3.4 GHz 20-Core LGA1700",
     "manufacturer": "Intel",
-    "part_numbers": ["BX8071514700KF"],
+    "part_numbers": [
+      "BX8071514700KF",
+      "CP747ITL02",
+      "735858546942"
+    ],
     "series": "Intel Core i7 14000",
     "variant": "14700KF",
     "releaseYear": 2023

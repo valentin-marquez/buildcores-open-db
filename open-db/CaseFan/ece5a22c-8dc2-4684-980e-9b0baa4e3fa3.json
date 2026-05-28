@@ -3,13 +3,20 @@
   "metadata": {
     "name": "APNX FP2 120mm Black PWM ARGB",
     "manufacturer": "APNX",
-    "part_numbers": ["FP2-120BK", "APF3-PF11317.11"],
+    "part_numbers": [
+      "FP2-120BK",
+      "APF3-PF11317.11",
+      "FP2-120 PWM ARGB BK"
+    ],
     "series": "FP2",
     "manufacturer_color": "Black",
     "releaseYear": 2023
   },
   "size": 120,
-  "color": ["BLACK", "RGB"],
+  "color": [
+    "BLACK",
+    "RGB"
+  ],
   "quantity": 1,
   "min_airflow": 83.87,
   "max_airflow": null,
@@ -22,7 +29,9 @@
   "static_pressure": 3.49,
   "flow_direction": "Standard",
   "isOEM": false,
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0CHS7DQ4T",
     "newegg_sku": "9SIC1FYKR22803",

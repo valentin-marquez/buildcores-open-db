@@ -3,12 +3,16 @@
   "metadata": {
     "name": "ADATA XPG VENTO 120mm White Addressable RGB 1-Pack",
     "manufacturer": "ADATA",
-    "part_numbers": [],
+    "part_numbers": [
+      "75261403"
+    ],
     "series": "XPG",
     "variant": "120mm White"
   },
   "size": 120,
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "quantity": 1,
   "min_airflow": 45.3,
   "max_airflow": null,

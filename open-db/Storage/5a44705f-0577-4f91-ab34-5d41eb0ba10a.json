@@ -3,7 +3,11 @@
   "metadata": {
     "name": "KingSpec NE-2280 512GB SSD M.2-2280 PCIe 3.0 NVMe",
     "manufacturer": "KingSpec",
-    "part_numbers": ["NE-2280-512GB"],
+    "part_numbers": [
+      "NE-2280-512GB",
+      "NE-512 2280",
+      "NE-5122280"
+    ],
     "series": "NE-2280",
     "variant": "512GB"
   },

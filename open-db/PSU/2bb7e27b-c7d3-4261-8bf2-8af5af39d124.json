@@ -18,7 +18,8 @@
       "FOCUS GX ATX 3 (2024) GX-1000",
       "FOCUS GX-1000 (ATX3)",
       "Focus GX-1000 ATX 3.1",
-      "Focus GX-1000 V4 (2024)"
+      "Focus GX-1000 V4 (2024)",
+      "GX-1000"
     ],
     "series": "Focus",
     "variant": "1000W Gold"
@@ -27,7 +28,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Full",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 140,
   "fanless": false,
   "lighting": [],

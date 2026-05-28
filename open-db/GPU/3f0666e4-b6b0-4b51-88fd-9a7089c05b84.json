@@ -29,7 +29,8 @@
       "GeForce RTX 5070 12G GAMING TRIO OC",
       "RTX 5070 12G GAMING TRIO OC",
       "G5070-12GTC",
-      "912-V532-029"
+      "912-V532-029",
+      "912-V532-019"
     ],
     "releaseYear": 2025,
     "manufacturer_color": "Black",
@@ -51,10 +52,15 @@
   "tdp": 250,
   "case_expansion_slot_width": 2,
   "cooling": "3 Fans",
-  "color": ["BLACK", "RGB"],
+  "color": [
+    "BLACK",
+    "RGB"
+  ],
   "core_count": 6144,
   "total_slot_width": 3,
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DYFXGDJF",
     "newegg_sku": "N82E16814137938",

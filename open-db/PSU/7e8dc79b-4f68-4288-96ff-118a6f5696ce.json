@@ -12,7 +12,10 @@
   "metadata": {
     "name": "SeaSonic CORE GX ATX 3 (2024) Black ATX 850W Fully Modular 80+ Gold Certified",
     "manufacturer": "SeaSonic",
-    "part_numbers": ["CORE ATX 3 GX-850"],
+    "part_numbers": [
+      "CORE ATX 3 GX-850",
+      "GX-850-V2"
+    ],
     "series": "CORE",
     "variant": "850W Gold"
   },
@@ -20,7 +23,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Full",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 140,
   "fanless": false,
   "lighting": [],

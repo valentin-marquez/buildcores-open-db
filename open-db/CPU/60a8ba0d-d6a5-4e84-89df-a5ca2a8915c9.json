@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 128,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 105,
@@ -43,7 +45,11 @@
   "metadata": {
     "name": "AMD Ryzen 7 7700X 4.5 GHz 8-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100000591WOF", "RYZEN 7 7700X"],
+    "part_numbers": [
+      "100-100000591WOF",
+      "RYZEN 7 7700X",
+      "0306006A15N"
+    ],
     "series": "AMD Ryzen 7 7000",
     "releaseYear": 2022,
     "variant": "7700X"

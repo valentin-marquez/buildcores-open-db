@@ -25,7 +25,11 @@
   "metadata": {
     "name": "ASUS TUF Gaming GeForce RTX™ 5090 32GB GDDR7 OC Edition",
     "manufacturer": "Asus",
-    "part_numbers": ["TUF-RTX5090-O32G-GAMING", "90YV0LY0-M0NA00"],
+    "part_numbers": [
+      "TUF-RTX5090-O32G-GAMING",
+      "90YV0LY0-M0NA00",
+      "90YV0LY0-M0AA00"
+    ],
     "series": "TUF GAMING",
     "variant": "OC Edition",
     "releaseYear": 2025,
@@ -46,9 +50,13 @@
   "case_expansion_slot_width": 2,
   "total_slot_width": 3.6,
   "cooling": "3 Fans",
-  "color": ["GREY"],
+  "color": [
+    "GREY"
+  ],
   "core_count": 21760,
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DS2X13PH",
     "newegg_sku": "N82E16814126753",

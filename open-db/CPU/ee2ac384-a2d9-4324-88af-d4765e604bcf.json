@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 170,
@@ -44,7 +46,11 @@
   "metadata": {
     "name": "AMD Ryzen 9 9950X 4.3 GHz 16-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100001277WOF", "AMD Ryzen™ 9 9950X"],
+    "part_numbers": [
+      "100-100001277WOF",
+      "AMD Ryzen™ 9 9950X",
+      "CP991AMD85"
+    ],
     "series": "AMD Ryzen 9 9000",
     "variant": "9950X",
     "releaseYear": 2024

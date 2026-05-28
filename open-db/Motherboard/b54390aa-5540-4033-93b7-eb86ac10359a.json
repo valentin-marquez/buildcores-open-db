@@ -37,7 +37,9 @@
       "90MB17H0-M0EAY0",
       "PRIME A520M-A II/CSM",
       "90MB17H0-M0EAYC",
-      "MBA-A520M-ACSM-PRI2"
+      "MBA-A520M-ACSM-PRI2",
+      "90MB17H0'M0EAY0",
+      "PRIMEA520M-AII"
     ],
     "series": "A520",
     "variant": ""
@@ -45,7 +47,10 @@
   "socket": "AM4",
   "form_factor": "Micro ATX",
   "chipset": "AMD A520",
-  "color": ["GREY", "BLACK"],
+  "color": [
+    "GREY",
+    "BLACK"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -84,7 +89,9 @@
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
-  "back_panel_ports": ["1 x 1 Gb/s Ports (Realtek)"],
+  "back_panel_ports": [
+    "1 x 1 Gb/s Ports (Realtek)"
+  ],
   "lighting": [],
   "general_product_information": {
     "amazon_sku": "B0997CGDLQ",

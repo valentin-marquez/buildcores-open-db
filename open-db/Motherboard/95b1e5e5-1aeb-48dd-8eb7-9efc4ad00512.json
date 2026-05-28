@@ -33,7 +33,9 @@
     "hdd_led": true
   },
   "power_connectors": {
-    "cpu_power": ["8-pin"],
+    "cpu_power": [
+      "8-pin"
+    ],
     "main_power": "24-pin"
   },
   "bios_features": {
@@ -47,7 +49,12 @@
   "metadata": {
     "name": "MSI B550M PRO-VDH WIFI",
     "manufacturer": "MSI",
-    "part_numbers": ["B550M PRO-VDH WIFI", "7C95-001R", "911-7C95-008"],
+    "part_numbers": [
+      "B550M PRO-VDH WIFI",
+      "7C95-001R",
+      "911-7C95-008",
+      "B550MPRO-VDHWIFI"
+    ],
     "series": "PRO",
     "variant": "B550M PRO-VDH WIFI",
     "releaseYear": 2020,
@@ -57,7 +64,10 @@
   "socket": "AM4",
   "form_factor": "Micro ATX",
   "chipset": "AMD B550",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",

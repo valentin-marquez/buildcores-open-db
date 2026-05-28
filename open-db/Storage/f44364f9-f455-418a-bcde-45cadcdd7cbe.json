@@ -3,7 +3,10 @@
   "metadata": {
     "name": "Lenovo 5300 960GB 2.5\" SSD SATA 6.0 Gb/s",
     "manufacturer": "Lenovo",
-    "part_numbers": ["4XB7A17089"],
+    "part_numbers": [
+      "4XB7A17089",
+      "4XB7A90874"
+    ],
     "series": "5300",
     "variant": "960GB"
   },

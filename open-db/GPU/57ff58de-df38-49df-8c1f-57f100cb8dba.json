@@ -25,7 +25,13 @@
   "metadata": {
     "name": "MSI SHADOW 2X OC GeForce RTX 5060 8GB GDDR7 ",
     "manufacturer": "MSI",
-    "part_numbers": ["RTX 5060 8G SHADOW 2X OC", "G5060-8S2C", "GeForce RTX 5060 8G SHADOW 2X OC"],
+    "part_numbers": [
+      "RTX 5060 8G SHADOW 2X OC",
+      "G5060-8S2C",
+      "GeForce RTX 5060 8G SHADOW 2X OC",
+      "912-V537-038",
+      "0307003A06N"
+    ],
     "series": "SHADOW 2X",
     "variant": "OC ",
     "releaseYear": 2025,
@@ -41,7 +47,10 @@
   "effective_memory_clock": 1750,
   "memory_bus": 128,
   "interface": "PCIe 5.0 x8",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "length": 197,
   "tdp": 145,
   "total_slot_width": 2,
@@ -49,7 +58,9 @@
   "core_count": 3840,
   "frame_sync": "G-Sync",
   "case_expansion_slot_width": 2,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0F4LP8VH5",
     "newegg_sku": "N82E16814137976",

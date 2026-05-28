@@ -39,7 +39,10 @@
   },
   "power_connectors": {
     "main_power": "24-pin",
-    "cpu_power": ["8-pin", "8-pin"]
+    "cpu_power": [
+      "8-pin",
+      "8-pin"
+    ]
   },
   "bios_features": {
     "flashback": true,
@@ -56,7 +59,8 @@
       "ROG STRIX B850-A GAMING WIFI",
       "90MB1J50-M0AAY0",
       "90MB1J50-M0EAY0",
-      "ROG STRIX B850-A GAMING WIFI R2"
+      "ROG STRIX B850-A GAMING WIFI R2",
+      "0305003A27N"
     ],
     "series": "ROG",
     "variant": "STRIX B850-A GAMING WIFI",
@@ -66,7 +70,9 @@
   "socket": "AM5",
   "form_factor": "ATX",
   "chipset": "AMD B850",
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",

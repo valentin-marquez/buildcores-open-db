@@ -31,7 +31,11 @@
   "metadata": {
     "name": "ASUS PRIME B650M-F",
     "manufacturer": "ASUS",
-    "part_numbers": ["PRIME B650M-F"],
+    "part_numbers": [
+      "PRIME B650M-F",
+      "MB000ASU65",
+      "PRIMEB650M-F"
+    ],
     "series": "PRIME",
     "variant": "B650M-F",
     "manufacturer_color": "Black"
@@ -39,7 +43,10 @@
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD B650",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -73,7 +80,9 @@
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
-  "back_panel_ports": ["1 x 1 Gb/s (Realtek)"],
+  "back_panel_ports": [
+    "1 x 1 Gb/s (Realtek)"
+  ],
   "lighting": [],
   "general_product_information": {}
 }

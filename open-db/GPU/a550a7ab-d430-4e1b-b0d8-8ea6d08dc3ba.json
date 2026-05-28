@@ -25,7 +25,10 @@
   "metadata": {
     "name": "Gigabyte EAGLE OC ICE SFF GeForce RTX 5070 Ti 16 GB",
     "manufacturer": "Gigabyte",
-    "part_numbers": ["GV-N507TEAGLEOC ICE-16GD"],
+    "part_numbers": [
+      "GV-N507TEAGLEOC ICE-16GD",
+      "GV-N507TEAGLEO OC ICE-16GD"
+    ],
     "series": "EAGLE ",
     "variant": "OC SFF",
     "releaseYear": 2025,
@@ -47,9 +50,13 @@
   "case_expansion_slot_width": 2,
   "total_slot_width": 2.5,
   "cooling": "3 Fans",
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "core_count": 8960,
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DTQT98M3",
     "newegg_sku": "N82E16814932769",

@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 170,
@@ -44,7 +46,12 @@
   "metadata": {
     "name": "AMD Ryzen 9 9950X3D 4.3 GHz 16-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100000719WOF", "Ryzen ™ 9 9950X 3D", "100-000000719"],
+    "part_numbers": [
+      "100-100000719WOF",
+      "Ryzen ™ 9 9950X 3D",
+      "100-000000719",
+      "CP992AMD26"
+    ],
     "series": "AMD Ryzen 9 9000",
     "variant": "9950X3D",
     "releaseYear": 2025,

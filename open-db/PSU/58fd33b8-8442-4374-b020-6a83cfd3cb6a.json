@@ -12,7 +12,10 @@
   "metadata": {
     "name": "SeaSonic FOCUS 850W Semi-Modular 80+ Gold Certified",
     "manufacturer": "SeaSonic",
-    "part_numbers": ["FOCUS GM-850"],
+    "part_numbers": [
+      "FOCUS GM-850",
+      "SSR-850FM"
+    ],
     "series": "FOCUS",
     "variant": "850W Gold"
   },
@@ -20,7 +23,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Semi-Modular",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 140,
   "fanless": false,
   "lighting": [],

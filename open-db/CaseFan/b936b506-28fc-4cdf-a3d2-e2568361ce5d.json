@@ -3,12 +3,17 @@
   "metadata": {
     "name": "Antec Fusion 120mm White ARGB PWM 1-Pack (57.93 CFM)",
     "manufacturer": "Antec",
-    "part_numbers": [],
+    "part_numbers": [
+      "0-761345-74045-6",
+      "FUSION120ARGB"
+    ],
     "series": "Fusion",
     "variant": "120mm White"
   },
   "size": 120,
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "quantity": 1,
   "min_airflow": 57.93,
   "max_airflow": null,

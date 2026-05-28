@@ -14,7 +14,10 @@
     "series": "LIGHTNING",
     "variant": "Z",
     "manufacturer_color": "Black",
-    "part_numbers": ["RTX-5090-32G-LIGHTNING-Z"],
+    "part_numbers": [
+      "RTX-5090-32G-LIGHTNING-Z",
+      "912-V530-237"
+    ],
     "releaseYear": 2026
   },
   "chipset_manufacturer": "NVIDIA",
@@ -23,8 +26,13 @@
   "memory_type": "GDDR7",
   "tdp": 1000,
   "length": 260,
-  "color": ["RGB", "BLACK"],
-  "lighting": ["Display"],
+  "color": [
+    "RGB",
+    "BLACK"
+  ],
+  "lighting": [
+    "Display"
+  ],
   "cooling": "Water Cooled",
   "case_expansion_slot_width": 2,
   "total_slot_width": 3,

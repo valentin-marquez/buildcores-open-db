@@ -28,7 +28,10 @@
     "part_numbers": [
       "RTX 5070 12G SHADOW 2X OC",
       "G5070-12S2C",
-      "GeForce RTX 5070 12G SHADOW 2X OC"
+      "GeForce RTX 5070 12G SHADOW 2X OC",
+      "912-V532-011",
+      "4711377308175",
+      "912-V532-076"
     ],
     "series": "SHADOW 2X",
     "variant": "OC ",
@@ -51,9 +54,13 @@
   "case_expansion_slot_width": 2,
   "total_slot_width": 2.5,
   "cooling": "2 Fans",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "core_count": 6144,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DYGFJK7C",
     "newegg_sku": "N82E16814137944",
