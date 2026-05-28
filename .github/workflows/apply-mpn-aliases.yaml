@@ -1,0 +1,59 @@
+# Template — copialo a `.github/workflows/apply-mpn-aliases.yaml` en el fork
+# `valentin-marquez/buildcores-open-db`. Ese repo es donde corre, no framerate.
+#
+# Secrets requeridos en Settings → Secrets and variables → Actions del fork:
+#   - SUPABASE_URL              prod URL (https://<proj>.supabase.co)
+#   - SUPABASE_SERVICE_ROLE_KEY service_role key con write a mpn_alias_queue
+#   - FRAMERATE_DEPLOY_TOKEN    PAT con `repo:read` sobre valentin-marquez/framerate
+#                               (si framerate es público, omitir y usar GITHUB_TOKEN)
+#
+# El GITHUB_TOKEN built-in alcanza para gh pr create dentro del mismo fork.
+
+name: apply-mpn-aliases
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # 09:00 UTC = 05:00/06:00 Chile (depende DST)
+  workflow_dispatch: # permite trigger manual
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork (writable)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Clone framerate (for the script source)
+        uses: actions/checkout@v4
+        with:
+          repository: valentin-marquez/framerate
+          path: framerate
+          token: ${{ secrets.FRAMERATE_DEPLOY_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install framerate deps
+        working-directory: framerate
+        run: bun install --frozen-lockfile
+
+      - name: Configure git author for commit
+        run: |
+          git config --global user.email "bot@framerate.cl"
+          git config --global user.name "framerate-bot"
+
+      - name: Run apply-mpn-aliases (--push)
+        working-directory: framerate
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          OPENDB_LOCAL_PATH: ${{ github.workspace }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bun run --cwd apps/cortex apply-mpn-aliases -- --push
