@@ -3,7 +3,12 @@
   "metadata": {
     "name": "Antec VORTEX Water 240mm Black",
     "manufacturer": "Antec",
-    "part_numbers": ["0-761345-74046-3VORTEX 240 ARGB", "0-761345-74046-3"],
+    "part_numbers": [
+      "0-761345-74046-3VORTEX 240 ARGB",
+      "0-761345-74046-3",
+      "VORTEX240ARGB",
+      "0-761345-40054-1"
+    ],
     "series": "VORTEX",
     "variant": "Black",
     "releaseYear": null
@@ -12,7 +17,9 @@
   "max_fan_rpm": 2000,
   "min_noise_level": 31.24,
   "max_noise_level": null,
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "height": null,
   "cpu_sockets": [
     "AM2",

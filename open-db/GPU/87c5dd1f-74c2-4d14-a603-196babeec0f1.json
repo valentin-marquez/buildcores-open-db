@@ -25,7 +25,12 @@
   "metadata": {
     "name": "ASUS PRIME GeForce RTX 5080 16GB GDDR7 OC Edition",
     "manufacturer": "Asus",
-    "part_numbers": ["PRIME-RTX5080-O16G", "90YV0LX0-M0NA00"],
+    "part_numbers": [
+      "PRIME-RTX5080-O16G",
+      "90YV0LX0-M0NA00",
+      "90YV0LX0M0AA00",
+      "90YV0LX0-M0AA00"
+    ],
     "series": "PRIME ",
     "variant": "OC Edition",
     "releaseYear": 2025,
@@ -46,9 +51,13 @@
   "case_expansion_slot_width": 2,
   "total_slot_width": 2.5,
   "cooling": "3 Fans",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "core_count": 10752,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DQSLHSP2",
     "newegg_sku": "N82E16814126744",

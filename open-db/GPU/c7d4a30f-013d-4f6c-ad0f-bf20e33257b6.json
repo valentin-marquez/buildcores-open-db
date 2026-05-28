@@ -28,7 +28,8 @@
     "part_numbers": [
       "G507T-16GT",
       "RTX 5070 TI 16G GAMING TRIO OC",
-      "GeForce RTX 5070 TI 16G GAMING TRIO OC"
+      "GeForce RTX 5070 TI 16G GAMING TRIO OC",
+      "912-V531-272"
     ],
     "series": "GAMING TRIO",
     "variant": "OC ",
@@ -44,7 +45,9 @@
   "effective_memory_clock": 1750,
   "memory_bus": 256,
   "interface": "PCIe 5.0 x16",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 338,
   "tdp": 300,
   "total_slot_width": 2.5,
@@ -53,7 +56,9 @@
   "frame_sync": "G-Sync",
   "case_expansion_slot_width": 2,
   "chipset": "GeForce RTX 5070 Ti",
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0F11KQQF4",
     "newegg_sku": "N82E16814137931",

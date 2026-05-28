@@ -27,7 +27,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "eccSupport": false,
@@ -39,7 +41,12 @@
   "metadata": {
     "name": "AMD Ryzen 5 8400F 4.2 GHz 6-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100001591BOX", "Ryzen™ 5 8400F", "AMD Ryzen™ 5 8400F"],
+    "part_numbers": [
+      "100-100001591BOX",
+      "Ryzen™ 5 8400F",
+      "AMD Ryzen™ 5 8400F",
+      "CP992AMD29"
+    ],
     "series": "AMD Ryzen 5 8000",
     "variant": "8400F",
     "releaseYear": 2024

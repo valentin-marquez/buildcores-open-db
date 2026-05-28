@@ -7,7 +7,10 @@
   "metadata": {
     "name": "Kingston FURY Beast RGB DDR4-3200 CL16 8GB",
     "manufacturer": "Kingston",
-    "part_numbers": ["KF432C16BBA/8"],
+    "part_numbers": [
+      "KF432C16BBA/8",
+      "100017857"
+    ],
     "series": "FURY Beast RGB",
     "variant": "",
     "manufacturer_color": "Black"
@@ -16,13 +19,19 @@
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM",
   "capacity": 8,
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "cas_latency": 16,
   "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": true,
-  "profile_support": ["XMP"],
-  "lighting": ["RGB"]
+  "profile_support": [
+    "XMP"
+  ],
+  "lighting": [
+    "RGB"
+  ]
 }

@@ -25,7 +25,12 @@
   "metadata": {
     "name": "ASRock Intel Arc B570 Challenger 10GB GDDR6 OC",
     "manufacturer": "ASRock",
-    "part_numbers": ["B570 CL 10GO", "90-GA5KZZ-00UANF", "VGB570CL10GO"],
+    "part_numbers": [
+      "B570 CL 10GO",
+      "90-GA5KZZ-00UANF",
+      "VGB570CL10GO",
+      "90-GA5KZZ00UANZ"
+    ],
     "variant": "OC",
     "manufacturer_color": "Black",
     "series": "Challenger ",
@@ -41,14 +46,18 @@
   "effective_memory_clock": 2375,
   "memory_bus": 160,
   "interface": "PCIe 4.0 x8",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 249,
   "tdp": 150,
   "total_slot_width": 2,
   "cooling": "2 Fans",
   "frame_sync": "None",
   "case_expansion_slot_width": 2,
-  "lighting": ["Fixed"],
+  "lighting": [
+    "Fixed"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DQYM2MHX",
     "newegg_sku": "N82E16814930134",

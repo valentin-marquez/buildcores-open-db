@@ -12,7 +12,11 @@
   "metadata": {
     "name": "Asus ROG Thor P3 Gaming 1200W Fully Modular 80+ Platinum Certified",
     "manufacturer": "Asus",
-    "part_numbers": ["rog-thor-1200p3-gaming"],
+    "part_numbers": [
+      "rog-thor-1200p3-gaming",
+      "90YE00V2-B0SA00",
+      "90YE00V2-B0AA00"
+    ],
     "series": "ROG Thor",
     "variant": "1200W Platinum III",
     "manufacturer_color": "Black/Silver"
@@ -21,7 +25,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Platinum",
   "modular": "Full",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 190,
   "fanless": false,
   "lighting": [],

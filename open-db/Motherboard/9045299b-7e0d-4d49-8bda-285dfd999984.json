@@ -31,14 +31,20 @@
   "metadata": {
     "name": "Gigabyte B840M EAGLE WIFI6 AM5 DDR5 Micro ATX",
     "manufacturer": "Gigabyte",
-    "part_numbers": ["B840M EAGLE WIFI6"],
+    "part_numbers": [
+      "B840M EAGLE WIFI6",
+      "4719331868970"
+    ],
     "series": "B840M",
     "variant": ""
   },
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD B840",
-  "color": ["GREY", "BLACK"],
+  "color": [
+    "GREY",
+    "BLACK"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -71,7 +77,9 @@
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
-  "back_panel_ports": ["1 x 2.5 Gb/s (Realtek)"],
+  "back_panel_ports": [
+    "1 x 2.5 Gb/s (Realtek)"
+  ],
   "lighting": [],
   "general_product_information": {}
 }

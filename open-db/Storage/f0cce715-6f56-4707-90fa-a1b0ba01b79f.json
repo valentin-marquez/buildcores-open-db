@@ -3,7 +3,11 @@
   "metadata": {
     "name": "Seagate SkyHawk AI 8TB 3.5\" HDD 7200RPM SATA",
     "manufacturer": "Seagate",
-    "part_numbers": ["ST8000VE001", "ST8000VEZ01"],
+    "part_numbers": [
+      "ST8000VE001",
+      "ST8000VEZ01",
+      "DH968SEA28"
+    ],
     "series": "SkyHawk",
     "variant": "8000GB"
   },

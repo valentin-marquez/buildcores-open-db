@@ -31,14 +31,19 @@
   "metadata": {
     "name": "Gigabyte B850M EAGLE WIFI6E ICE DDR5 Micro ATX",
     "manufacturer": "Gigabyte",
-    "part_numbers": ["B850M EAGLE WIFI6E ICE"],
+    "part_numbers": [
+      "B850M EAGLE WIFI6E ICE",
+      "0305009A21N"
+    ],
     "series": "B850M",
     "variant": ""
   },
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD B850",
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -83,7 +88,9 @@
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
-  "back_panel_ports": ["1 x 2.5 Gb/s Ports (Realtek)"],
+  "back_panel_ports": [
+    "1 x 2.5 Gb/s Ports (Realtek)"
+  ],
   "lighting": [],
   "general_product_information": {}
 }

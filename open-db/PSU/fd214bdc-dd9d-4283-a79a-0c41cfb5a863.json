@@ -12,7 +12,10 @@
   "metadata": {
     "name": "Gigabyte UD-GM PG5 850W Fully Modular 80+ Gold Certified ATX",
     "manufacturer": "Gigabyte",
-    "part_numbers": ["GP-UD850GM PG5W"],
+    "part_numbers": [
+      "GP-UD850GM PG5W",
+      "GP-UD850GM PG5W GAR1"
+    ],
     "series": "UD-GM",
     "variant": "850W Gold"
   },
@@ -20,7 +23,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Full",
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "length": 140,
   "fanless": false,
   "lighting": [],

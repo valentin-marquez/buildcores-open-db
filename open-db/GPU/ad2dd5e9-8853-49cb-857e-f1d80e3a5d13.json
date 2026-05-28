@@ -32,7 +32,8 @@
       "4711377308229",
       "GEFORCE RTX 5070 12G VENTUS 2X OC",
       "RTX 5070 12G VENTUS 2X OC",
-      "GeForce RTX 5070 12G VENTUS 2X OC"
+      "GeForce RTX 5070 12G VENTUS 2X OC",
+      "912-V532-009"
     ],
     "series": "VENTUS 2X",
     "variant": "OC",
@@ -49,7 +50,10 @@
   "effective_memory_clock": 1750,
   "memory_bus": 192,
   "interface": "PCIe 5.0 x16",
-  "color": ["GREY", "BLACK"],
+  "color": [
+    "GREY",
+    "BLACK"
+  ],
   "length": 236,
   "tdp": 250,
   "cooling": "2 Fans",
@@ -57,7 +61,9 @@
   "frame_sync": "G-Sync",
   "case_expansion_slot_width": 2,
   "total_slot_width": 2.5,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DX7JJ87N",
     "newegg_sku": "9SIC4WSKSD7026",

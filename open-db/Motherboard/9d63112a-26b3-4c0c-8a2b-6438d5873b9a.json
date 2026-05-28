@@ -31,14 +31,20 @@
   "metadata": {
     "name": "ASUS B850M AYW GAMING WIFI",
     "manufacturer": "ASUS",
-    "part_numbers": ["B850M AYW GAMING WIFI"],
+    "part_numbers": [
+      "B850M AYW GAMING WIFI",
+      "90MB1LW0-M0EAY0"
+    ],
     "variant": "B850M AYW GAMING WIFI",
     "manufacturer_color": "Black/White"
   },
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD B850",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -67,7 +73,9 @@
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
-  "back_panel_ports": ["1 x 2.5 Gb/s Ports (Realtek)"],
+  "back_panel_ports": [
+    "1 x 2.5 Gb/s Ports (Realtek)"
+  ],
   "lighting": [],
   "general_product_information": {}
 }

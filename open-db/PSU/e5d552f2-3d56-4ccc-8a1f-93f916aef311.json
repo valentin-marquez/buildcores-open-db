@@ -12,7 +12,13 @@
   "metadata": {
     "name": "Asus ROG Strix Black 1000W Fully Modular 80+ Platinum Certified",
     "manufacturer": "Asus",
-    "part_numbers": ["90YE00W1-B0NA00", "ROG-STRIX-1000P-GAMING"],
+    "part_numbers": [
+      "90YE00W1-B0NA00",
+      "ROG-STRIX-1000P-GAMING",
+      "4711387594452",
+      "90YE00W1-B0AA00",
+      "90YE00W1-B0SA00"
+    ],
     "series": "ROG",
     "variant": "1000W Platinum"
   },
@@ -20,7 +26,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Platinum",
   "modular": "Full",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 150,
   "fanless": false,
   "lighting": [],

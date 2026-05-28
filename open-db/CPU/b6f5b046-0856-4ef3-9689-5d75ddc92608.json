@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 120,
@@ -44,7 +46,11 @@
   "metadata": {
     "name": "AMD Ryzen 9 9900X 4.4 GHz 12-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100000662WOF", "AMD Ryzen™ 9 9900X"],
+    "part_numbers": [
+      "100-100000662WOF",
+      "AMD Ryzen™ 9 9900X",
+      "CP991AMD83"
+    ],
     "series": "AMD Ryzen 9 9000",
     "variant": "9900X",
     "releaseYear": 2024

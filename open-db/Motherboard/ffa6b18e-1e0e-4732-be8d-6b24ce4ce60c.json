@@ -36,7 +36,10 @@
     "thunderbolt": 1
   },
   "power_connectors": {
-    "cpu_power": ["8-pin", "8-pin"],
+    "cpu_power": [
+      "8-pin",
+      "8-pin"
+    ],
     "main_power": "24-pin"
   },
   "bios_features": {
@@ -50,7 +53,12 @@
   "metadata": {
     "name": "MSI PRO Z790-P WIFI DDR5 ATX",
     "manufacturer": "MSI",
-    "part_numbers": ["PRO Z790-P WIFI", "7E06-001R", "911-7E06-010"],
+    "part_numbers": [
+      "PRO Z790-P WIFI",
+      "7E06-001R",
+      "911-7E06-010",
+      "PROZ790-PWIFI"
+    ],
     "series": "PRO",
     "variant": "Z790-P WIFI",
     "releaseYear": 2023,
@@ -60,7 +68,10 @@
   "socket": "LGA 1700",
   "form_factor": "ATX",
   "chipset": "Intel Z790",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",

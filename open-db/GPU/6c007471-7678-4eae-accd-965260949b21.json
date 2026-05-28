@@ -25,7 +25,11 @@
   "metadata": {
     "name": "ASUS Prime Radeon™ RX 9060 XT 8GB GDDR6 OC Edition",
     "manufacturer": "Asus",
-    "part_numbers": ["PRIME-RX9060XT-O8G", "90YV0MI0-M0NA00"],
+    "part_numbers": [
+      "PRIME-RX9060XT-O8G",
+      "90YV0MI0-M0NA00",
+      "90YV0MI0-M0AA00"
+    ],
     "series": "PRIME",
     "variant": "OC Edition",
     "releaseYear": 2025,
@@ -40,7 +44,9 @@
   "effective_memory_clock": 2518,
   "memory_bus": 128,
   "interface": "PCIe 5.0 x16",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 304,
   "tdp": 150,
   "cooling": "3 Fans",
@@ -48,7 +54,9 @@
   "frame_sync": "FreeSync",
   "case_expansion_slot_width": 2,
   "total_slot_width": 2.5,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0F8PSH3Q9",
     "newegg_sku": "N82E16814126805",

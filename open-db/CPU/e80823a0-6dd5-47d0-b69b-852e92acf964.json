@@ -30,7 +30,10 @@
     },
     "memory": {
       "maxSupport": 192,
-      "types": ["DDR5", "DDR4"],
+      "types": [
+        "DDR5",
+        "DDR4"
+      ],
       "channels": 2
     },
     "tdp": 125,
@@ -44,7 +47,11 @@
   "metadata": {
     "name": "Intel Core i9 14900K 3.2 GHz 24-Core LGA1700",
     "manufacturer": "Intel",
-    "part_numbers": ["BX8071514900K"],
+    "part_numbers": [
+      "BX8071514900K",
+      "PN-CGPINT914900K",
+      "CP949ITL01"
+    ],
     "series": "Intel Core i9 14000",
     "variant": "14900K",
     "releaseYear": 2023

@@ -31,7 +31,9 @@
   },
   "power_connectors": {
     "main_power": "24-pin",
-    "cpu_power": ["8-pin"]
+    "cpu_power": [
+      "8-pin"
+    ]
   },
   "bios_features": {
     "flashback": false,
@@ -44,7 +46,12 @@
   "metadata": {
     "name": "MSI PRO A620AM-B EVO",
     "manufacturer": "MSI",
-    "part_numbers": ["MSI PRO A620AM-B EVO", "PRO A620AM-B EVO"],
+    "part_numbers": [
+      "MSI PRO A620AM-B EVO",
+      "PRO A620AM-B EVO",
+      "911-7E36-002",
+      "4711377397216"
+    ],
     "series": "PRO",
     "variant": "A620AM-B EVO",
     "releaseYear": 2025,
@@ -53,7 +60,10 @@
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD A620A",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",

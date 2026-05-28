@@ -31,14 +31,24 @@
   "metadata": {
     "name": "MSI X870E PRO-P WIFI DDR5 ATX",
     "manufacturer": "MSI",
-    "part_numbers": ["PRO X870E-P WIFI", "PRO X870E-P WiFi", "X870E-P", "911-7E70-002"],
+    "part_numbers": [
+      "PRO X870E-P WIFI",
+      "PRO X870E-P WiFi",
+      "X870E-P",
+      "911-7E70-002",
+      "4711377347600",
+      "824142425565"
+    ],
     "series": "X870E",
     "variant": ""
   },
   "socket": "AM5",
   "form_factor": "ATX",
   "chipset": "AMD X870E",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",
@@ -101,7 +111,9 @@
   "ecc_support": false,
   "raid_support": true,
   "back_connect_connectors": false,
-  "back_panel_ports": ["1 x 5 Gb/s Ports (Realtek 8126VB)"],
+  "back_panel_ports": [
+    "1 x 5 Gb/s Ports (Realtek 8126VB)"
+  ],
   "lighting": [],
   "general_product_information": {
     "amazon_sku": "B0F97HZ5R1",

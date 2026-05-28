@@ -28,7 +28,9 @@
     },
     "memory": {
       "maxSupport": 128,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 105,
@@ -42,7 +44,12 @@
   "metadata": {
     "name": "AMD Ryzen 5 7600X 4.7 GHz 6-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100000593WOF", "RYZEN 5 7600X"],
+    "part_numbers": [
+      "100-100000593WOF",
+      "RYZEN 5 7600X",
+      "0306006A05N",
+      "0306006A05O"
+    ],
     "series": "AMD Ryzen 5 7000",
     "variant": "7600X",
     "releaseYear": 2022

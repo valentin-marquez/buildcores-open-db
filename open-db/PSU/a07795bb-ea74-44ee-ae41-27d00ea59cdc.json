@@ -17,7 +17,8 @@
       "X5000A253HC-20",
       "0-761345-11741-8",
       "CSK550 AU",
-      "0-761345-11739-5"
+      "0-761345-11739-5",
+      "CSK550EC"
     ],
     "series": "CSK",
     "variant": "550W Bronze"
@@ -26,7 +27,10 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Bronze",
   "modular": "Non-Modular",
-  "color": ["BLACK", "YELLOW"],
+  "color": [
+    "BLACK",
+    "YELLOW"
+  ],
   "length": 140,
   "fanless": false,
   "lighting": [],

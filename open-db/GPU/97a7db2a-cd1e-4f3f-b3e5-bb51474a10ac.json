@@ -8,7 +8,9 @@
     "manufacturer": "Gigabyte",
     "series": "WINDFORCE",
     "variant": "OC V2",
-    "part_numbers": [],
+    "part_numbers": [
+      "GV-N5050WF2OCV2-8GD"
+    ],
     "manufacturer_color": "Black"
   },
   "chipset_manufacturer": "NVIDIA",
@@ -17,7 +19,9 @@
   "memory": 8,
   "memory_type": "GDDR6",
   "tdp": 130,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "length": 201,
   "case_expansion_slot_width": 2,
   "total_slot_width": 2,

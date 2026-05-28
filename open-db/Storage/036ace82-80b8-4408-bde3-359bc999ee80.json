@@ -3,7 +3,12 @@
   "metadata": {
     "name": "Kingston NV3 PCIe 4.0 NVMe SSD 2280 1TB",
     "manufacturer": "Kingston Technology",
-    "part_numbers": ["SNV3S/1000G"],
+    "part_numbers": [
+      "SNV3S/1000G",
+      "SNV3S1000G",
+      "DH120KNG66",
+      "0302018A02N"
+    ],
     "series": "NV3",
     "variant": "1TB",
     "releaseYear": 2024,

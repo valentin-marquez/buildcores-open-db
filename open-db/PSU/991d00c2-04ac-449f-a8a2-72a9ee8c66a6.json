@@ -18,7 +18,8 @@
       "Focus GX-1000 White ATX 3.1",
       "Focus GX-1000 V4 WHITE (2024)",
       "FOCUS-GX-750-V4-WHITE",
-      "FOCUS-GX-1000-V4-WHITE"
+      "FOCUS-GX-1000-V4-WHITE",
+      "GX-1000 ( White )"
     ],
     "series": "Focus GX V4",
     "variant": "1000W 80+ Gold",
@@ -31,7 +32,9 @@
   "efficiency_rating": "80+ Gold",
   "cybernetics_noise_rating": "Cybenetics A-",
   "modular": "Full",
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "length": 140,
   "fanless": false,
   "cybernetics_efficiency_rating": "Cybenetics Gold",

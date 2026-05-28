@@ -17,7 +17,9 @@
       "GP-UD1000GM PG5 REV 2.0",
       "GP-UD1000GM PG5 V2",
       "GP-UD1000GM PG5",
-      "GP-UD1000GM PG5 REV2.0"
+      "GP-UD1000GM PG5 REV2.0",
+      "4719331556136",
+      "GP-UD1000GMPG5"
     ],
     "series": "UD1000GM",
     "variant": "1000W Gold"
@@ -26,7 +28,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Full",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 140,
   "fanless": false,
   "lighting": [],

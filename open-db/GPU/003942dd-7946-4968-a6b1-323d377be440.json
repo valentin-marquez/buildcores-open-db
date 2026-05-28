@@ -29,7 +29,8 @@
       "G5060-8V2CW",
       "V537-003R",
       "GeForce RTX 5060 8G VENTUS 2X OC WHITE",
-      "912-V537-003"
+      "912-V537-003",
+      "912-V537-018"
     ],
     "series": "VENTUS 2X",
     "variant": "OC",
@@ -47,14 +48,19 @@
   "effective_memory_clock": 1750,
   "memory_bus": 128,
   "interface": "PCIe 5.0 x8",
-  "color": ["WHITE", "GREY"],
+  "color": [
+    "WHITE",
+    "GREY"
+  ],
   "frame_sync": "G-Sync",
   "length": 197,
   "tdp": 145,
   "case_expansion_slot_width": 2,
   "total_slot_width": 2,
   "cooling": "2 Fans",
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0972D2R41",
     "newegg_sku": "9SIAGBAKS22071",

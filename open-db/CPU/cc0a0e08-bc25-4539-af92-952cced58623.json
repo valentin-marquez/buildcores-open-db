@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 65,
@@ -44,7 +46,12 @@
   "metadata": {
     "name": "AMD Ryzen 5 9600X 3.9 GHz 6-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100001405WOF", "AMD Ryzen™ 5 9600X"],
+    "part_numbers": [
+      "100-100001405WOF",
+      "AMD Ryzen™ 5 9600X",
+      "0306006A18N",
+      "CP991AMD75"
+    ],
     "series": "AMD Ryzen 5 9000",
     "variant": "9600X",
     "releaseYear": 2024

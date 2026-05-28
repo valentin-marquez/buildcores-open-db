@@ -29,7 +29,8 @@
       "GV-R9070GAMING OC-16GD",
       "R9070GAMING OC 16GD",
       "Radeon RX 9070 GAMING OC 16G",
-      "9VR9070GO-00-G10"
+      "9VR9070GO-00-G10",
+      "GV-R9070GAMINGOC16G"
     ],
     "series": "GAMING",
     "variant": "OC",
@@ -45,7 +46,10 @@
   "effective_memory_clock": 2518,
   "memory_bus": 256,
   "interface": "PCIe 5.0 x16",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "length": 288,
   "tdp": 220,
   "total_slot_width": 2.5,
@@ -54,7 +58,9 @@
   "frame_sync": "FreeSync",
   "case_expansion_slot_width": 2,
   "memory_type": "GDDR6",
-  "lighting": ["RGB"],
+  "lighting": [
+    "RGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DS2QZC9P",
     "newegg_sku": "N82E16814932752",

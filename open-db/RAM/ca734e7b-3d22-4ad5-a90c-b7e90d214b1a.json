@@ -7,7 +7,12 @@
   "metadata": {
     "name": "Kingston ValueRAM DDR4-3200 CL22 8GB (1x8GB)",
     "manufacturer": "Kingston",
-    "part_numbers": ["KVR32N22S6", "8", "KVR32N22S6/8"],
+    "part_numbers": [
+      "KVR32N22S6",
+      "8",
+      "KVR32N22S6/8",
+      "KVR32N22S68"
+    ],
     "series": "ValueRAM",
     "variant": "3200 CL22"
   },

@@ -37,7 +37,9 @@
     "thunderbolt": 0
   },
   "power_connectors": {
-    "cpu_power": ["8-pin"],
+    "cpu_power": [
+      "8-pin"
+    ],
     "main_power": "24-pin"
   },
   "bios_features": {
@@ -56,7 +58,8 @@
       "7E57-002R",
       "B840GPW",
       "B840 Gaming Plus WiFi",
-      "601-7E57-03S"
+      "601-7E57-03S",
+      "911-7E57-002"
     ],
     "series": "B840",
     "variant": "GAMING PLUS WIFI ",
@@ -65,7 +68,10 @@
   "socket": "AM5",
   "form_factor": "ATX",
   "chipset": "AMD B840",
-  "color": ["GREY", "BLACK"],
+  "color": [
+    "GREY",
+    "BLACK"
+  ],
   "pcie_slots": [
     {
       "gen": "4.0",

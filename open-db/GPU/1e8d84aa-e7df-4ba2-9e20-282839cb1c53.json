@@ -22,7 +22,11 @@
   "metadata": {
     "name": "ASRock Intel Arc A580 Challenger OC 8GB GDDR6",
     "manufacturer": "ASRock",
-    "part_numbers": ["A580 CL 8GO", "90-GA3JZZ-00UANF"],
+    "part_numbers": [
+      "A580 CL 8GO",
+      "90-GA3JZZ-00UANF",
+      "90-GA3JZZ-00UANZ"
+    ],
     "series": "Challenger",
     "variant": "OC",
     "releaseYear": 2023,
@@ -37,7 +41,9 @@
   "effective_memory_clock": 2000,
   "memory_bus": 256,
   "interface": "PCIe 4.0 x16",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 271,
   "tdp": 175,
   "total_slot_width": 2.4,

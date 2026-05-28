@@ -12,7 +12,12 @@
   "metadata": {
     "name": "Seasonic Focus GX-1000 White 1000W 80+ Gold ATX 3.1",
     "manufacturer": "Seasonic",
-    "part_numbers": ["GX-1000 (WHITE)", "SRP-FGX102-A5A32SF"],
+    "part_numbers": [
+      "GX-1000 (WHITE)",
+      "SRP-FGX102-A5A32SF",
+      "GX-1000",
+      "GX-1000 ( White )"
+    ],
     "series": "Focus GX",
     "variant": "ATX 3.1",
     "manufacturer_color": "White"
@@ -21,9 +26,13 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Full",
-  "color": ["WHITE"],
+  "color": [
+    "WHITE"
+  ],
   "length": 140,
   "fanless": false,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {}
 }

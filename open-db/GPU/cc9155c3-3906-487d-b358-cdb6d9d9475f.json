@@ -29,7 +29,8 @@
       "RTX 3050 VENTUS 2X 6G OC",
       "GeForce RTX 3050 VENTUS 2X 6G OC",
       "V812-015R",
-      "912-V812-015"
+      "912-V812-015",
+      "824142348710"
     ],
     "series": "VENTUS",
     "variant": "2X OC",
@@ -44,7 +45,9 @@
   "effective_memory_clock": 1750,
   "memory_bus": 96,
   "interface": "PCIe 4.0 x8",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 189,
   "tdp": 70,
   "total_slot_width": 2.1,
@@ -53,7 +56,9 @@
   "chipset": "GeForce RTX 3050 6 GB",
   "frame_sync": "G-Sync",
   "case_expansion_slot_width": 2,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0CSPNYB42",
     "newegg_sku": "N82E16814137878",

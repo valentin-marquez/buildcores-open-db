@@ -25,7 +25,15 @@
   "metadata": {
     "name": "MSI GeForce RTX 5070 12G VENTUS 3X OC GDDR7",
     "manufacturer": "MSI",
-    "part_numbers": ["G5070-12V3C", "RTX 5070 12G VENTUS 3X OC", "V532-001R"],
+    "part_numbers": [
+      "G5070-12V3C",
+      "RTX 5070 12G VENTUS 3X OC",
+      "V532-001R",
+      "0307002A06N",
+      "GEFORCE RTX 5070 12G VENTUS 3X OC",
+      "912-V532-207",
+      "912-V532-205"
+    ],
     "series": "VENTUS 3X",
     "variant": "OC",
     "releaseYear": 2025,
@@ -47,9 +55,14 @@
   "case_expansion_slot_width": 2,
   "total_slot_width": 2.5,
   "cooling": "3 Fans",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "core_count": 6144,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DX7GG91F",
     "newegg_sku": "N82E16814137940",

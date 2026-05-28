@@ -28,7 +28,8 @@
     "part_numbers": [
       "rog-astral-rtx5080-o16g-gaming",
       "90YV0LV0-M0NA00",
-      "ROG-ASTRAL-RTX5080-O16G-GAMING"
+      "ROG-ASTRAL-RTX5080-O16G-GAMING",
+      "90YV0LV0-M0AA00"
     ],
     "series": "ROG Astral",
     "variant": "OC",
@@ -50,10 +51,16 @@
   "tdp": 360,
   "case_expansion_slot_width": 2,
   "cooling": "4 Fans",
-  "color": ["BLACK", "RGB", "GREY"],
+  "color": [
+    "BLACK",
+    "RGB",
+    "GREY"
+  ],
   "core_count": 10752,
   "total_slot_width": 3.8,
-  "lighting": ["ARGB"],
+  "lighting": [
+    "ARGB"
+  ],
   "general_product_information": {
     "amazon_sku": "B0DQSD7YQC",
     "newegg_sku": "N82E16814126742",

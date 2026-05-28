@@ -3,7 +3,13 @@
   "metadata": {
     "name": "Kingston A400 960GB 2.5\" SSD SATA",
     "manufacturer": "Kingston",
-    "part_numbers": ["SA400S37", "960G", "SA400S37/960G"],
+    "part_numbers": [
+      "SA400S37",
+      "960G",
+      "SA400S37/960G",
+      "SA400S37960G",
+      "DH960KNG11"
+    ],
     "series": "A400",
     "variant": "960GB"
   },

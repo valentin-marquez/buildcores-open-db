@@ -3,12 +3,16 @@
   "metadata": {
     "name": "ADATA Vento 120mm Black 45.3 CFM 1-Pack",
     "manufacturer": "ADATA",
-    "part_numbers": [],
+    "part_numbers": [
+      "75261402"
+    ],
     "series": "Vento",
     "variant": "120mm Black"
   },
   "size": 120,
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "quantity": 1,
   "min_airflow": 45.3,
   "max_airflow": null,

@@ -7,7 +7,11 @@
   "metadata": {
     "name": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200 CL16 Black",
     "manufacturer": "Kingston",
-    "part_numbers": ["KF432C16BBK2/16", "HX432C16FB3K2/16"],
+    "part_numbers": [
+      "KF432C16BBK2/16",
+      "HX432C16FB3K2/16",
+      "100015759"
+    ],
     "series": "FURY Beast",
     "variant": "3200 CL16",
     "manufacturer_color": "Black",
@@ -18,14 +22,19 @@
   "ram_type": "DDR4",
   "form_factor": "288-pin DIMM",
   "capacity": 16,
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "cas_latency": 16,
   "voltage": 1.35,
   "ecc": "Non-ECC",
   "registered": "Unbuffered",
   "heat_spreader": true,
   "rgb": false,
-  "profile_support": ["XMP", "EXPO"],
+  "profile_support": [
+    "XMP",
+    "EXPO"
+  ],
   "timings": "16-18-18",
   "height": 34,
   "lighting": [],

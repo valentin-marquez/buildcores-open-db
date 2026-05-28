@@ -33,7 +33,10 @@
     "hdd_led": true
   },
   "power_connectors": {
-    "cpu_power": ["8-pin", "4-pin"],
+    "cpu_power": [
+      "8-pin",
+      "4-pin"
+    ],
     "main_power": "24-pin"
   },
   "bios_features": {
@@ -47,7 +50,10 @@
   "metadata": {
     "name": "ASUS PRIME B650EM-A WIFI",
     "manufacturer": "ASUS",
-    "part_numbers": ["PRIME B650EM-A WIFI"],
+    "part_numbers": [
+      "PRIME B650EM-A WIFI",
+      "90MB1LM0-M0EAY0"
+    ],
     "series": "PRIME",
     "variant": " B650EM-A WIFI",
     "manufacturer_color": "Black",
@@ -56,7 +62,10 @@
   "socket": "AM5",
   "form_factor": "Micro ATX",
   "chipset": "AMD B650",
-  "color": ["BLACK", "GREY"],
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
   "pcie_slots": [
     {
       "gen": "5.0",

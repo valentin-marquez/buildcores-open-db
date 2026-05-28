@@ -12,7 +12,10 @@
   "metadata": {
     "name": "Gigabyte UD850GM 850W Fully Modular 80+ Gold Certified",
     "manufacturer": "Gigabyte",
-    "part_numbers": ["GP-UD850GM"],
+    "part_numbers": [
+      "GP-UD850GM",
+      "4711331552633"
+    ],
     "series": "UD850GM",
     "variant": "850W Gold"
   },
@@ -20,7 +23,9 @@
   "form_factor": "ATX",
   "efficiency_rating": "80+ Gold",
   "modular": "Full",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "length": 140,
   "fanless": false,
   "lighting": [],

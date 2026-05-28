@@ -25,7 +25,10 @@
   "metadata": {
     "name": "MSI GT 710 2GD3 LP GeForce GT 710 2 GB",
     "manufacturer": "MSI",
-    "part_numbers": ["GT 710 2GD3 LP"],
+    "part_numbers": [
+      "GT 710 2GD3 LP",
+      "824142126905"
+    ],
     "releaseYear": 2014,
     "manufacturer_color": "Black",
     "series": "LP"
@@ -43,10 +46,14 @@
   "case_expansion_slot_width": 1,
   "total_slot_width": 1,
   "cooling": "1 Fan",
-  "color": ["BLACK"],
+  "color": [
+    "BLACK"
+  ],
   "core_count": 192,
   "memory_bus": 64,
-  "lighting": ["None"],
+  "lighting": [
+    "None"
+  ],
   "general_product_information": {
     "amazon_sku": "B01DOFD0G8",
     "newegg_sku": "9SIAD6HK5W7290",

@@ -30,7 +30,9 @@
     },
     "memory": {
       "maxSupport": 256,
-      "types": ["DDR5"],
+      "types": [
+        "DDR5"
+      ],
       "channels": 2
     },
     "tdp": 200,
@@ -44,7 +46,12 @@
   "metadata": {
     "name": "AMD Ryzen 9 9950X3D2 4.3 GHz 16-Core AM5",
     "manufacturer": "AMD",
-    "part_numbers": ["100-100001978WOF", "100-000001978", "AMD Ryzen 9 9950X3D2 Dual Edition"],
+    "part_numbers": [
+      "100-100001978WOF",
+      "100-000001978",
+      "AMD Ryzen 9 9950X3D2 Dual Edition",
+      "730143318327"
+    ],
     "series": "AMD Ryzen 9 9000",
     "variant": "9950X3D2",
     "releaseYear": 2026,
