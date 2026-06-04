@@ -1,0 +1,19 @@
+{
+  "opendb_id": "801c687c-6559-46ef-ae06-b1f1daf54ef0",
+  "metadata": {
+    "name": "NF-A14x25r G2 PWM chromax.black",
+    "manufacturer": "Noctua",
+    "series": "NF",
+    "variant": "Round Frame",
+    "manufacturer_color": "Chromax Black",
+    "part_numbers": []
+  },
+  "size": 140,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "pwm": true,
+  "connector": "4-pin PWM",
+  "isOEM": false,
+  "general_product_information": {}
+}
