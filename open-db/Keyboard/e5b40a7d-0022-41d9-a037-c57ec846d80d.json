@@ -8,7 +8,8 @@
       "CH-91E901H-NA",
       "CH-91E901I-NA",
       "CH-91E911E-NA",
-      "CH-91E911G-NA"
+      "CH-91E911G-NA",
+      "CH-91E901E-NA"
     ],
     "releaseYear": 2025
   },
@@ -18,7 +19,7 @@
   "features": ["Screen", "Knob"],
   "connectivity": ["Wired USB-C"],
   "polling_rate": 8000,
-  "lighting": ["ARGB"],
+  "lighting": ["ARGB", "RGB"],
   "hot_swappable": true,
   "backlighting": "RGB",
   "keycap_material": "Double-shot PBT",
