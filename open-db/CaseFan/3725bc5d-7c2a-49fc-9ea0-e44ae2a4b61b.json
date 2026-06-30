@@ -23,5 +23,7 @@
   "flow_direction": "Standard",
   "isOEM": false,
   "lighting": ["None"],
-  "general_product_information": {}
+  "general_product_information": {
+    "walmart_sku": 402929751
+  }
 }

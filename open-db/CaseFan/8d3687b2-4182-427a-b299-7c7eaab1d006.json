@@ -25,6 +25,7 @@
   "isOEM": false,
   "lighting": ["None"],
   "general_product_information": {
-    "amazon_sku": "B08LGYP7M2"
+    "amazon_sku": "B08LGYP7M2",
+    "walmart_sku": 372418697
   }
 }

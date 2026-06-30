@@ -43,6 +43,7 @@
   "memory_bus": 256,
   "case_expansion_slot_width": 2,
   "general_product_information": {
-    "amazon_sku": "B07GPW17YM"
+    "amazon_sku": "B07GPW17YM",
+    "walmart_sku": 569519119
   }
 }
