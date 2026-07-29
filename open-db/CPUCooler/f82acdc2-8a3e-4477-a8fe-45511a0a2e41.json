@@ -5,8 +5,9 @@
     "manufacturer": "be quiet!",
     "series": "Pure Rock",
     "manufacturer_color": "Black",
-    "part_numbers": [],
-    "releaseYear": 2025
+    "part_numbers": ["BK047"],
+    "releaseYear": 2025,
+    "variant": "Slim 3"
   },
   "height": 127,
   "cpu_sockets": [
