@@ -29,7 +29,7 @@
   "power_supply_shroud": true,
   "expansion_slots": 7,
   "supports_rear_connecting_motherboard": true,
-  "front_usb_ports": ["2 x USB-A 3.2 Gen 1", "1 x USB-C 3.2 Gen 2 x 2"],
+  "front_usb_ports": ["2 x USB 3.2 Gen 1 Type-A", "1 x USB 3.2 Gen 2 x 2 Type-C"],
   "power_supply": "None",
   "volume": 58,
   "weight": 22,
@@ -37,6 +37,6 @@
     "amazon_sku": "B0G6KFZDCZ",
     "newegg_sku": "N82E16811963002",
     "walmart_sku": 18707414648,
-    "manufacturer_url": "https://www.tryx.com/en/products/cases/flova/flova-f50/white"
+    "manufacturer_url": "https://static.buildcores.com/part-attachments/a94dbf7d-13a8-4454-8dd2-8570bb1bc56c_flova-manual.pdf"
   }
 }

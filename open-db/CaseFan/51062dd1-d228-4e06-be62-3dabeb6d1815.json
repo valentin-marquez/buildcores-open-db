@@ -3,7 +3,7 @@
   "metadata": {
     "name": "NZXT F120U 120mm Ultra RGB Fan White",
     "manufacturer": "NZXT",
-    "part_numbers": [],
+    "part_numbers": ["RF-E12US-WA"],
     "series": "Ultra",
     "manufacturer_color": "White",
     "releaseYear": 2026
@@ -13,7 +13,7 @@
   "pwm": true,
   "connector": "4-pin PWM + NZXT 4-pin RGB + 5V ARGB",
   "color": ["WHITE"],
-  "lighting": ["None"],
+  "lighting": ["ARGB"],
   "isOEM": false,
   "flow_direction": "Standard",
   "min_airflow": 60,
