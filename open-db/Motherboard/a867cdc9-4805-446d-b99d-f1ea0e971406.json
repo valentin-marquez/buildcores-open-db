@@ -20,7 +20,7 @@
   "fan_headers": {
     "cpu_fan": 1,
     "case_fan": 3,
-    "pump": 1
+    "pump": 2
   },
   "rgb_headers": {
     "argb_5v": 3,
@@ -33,7 +33,7 @@
     "power_led": true
   },
   "other_headers": {
-    "temperature_sensor": 1
+    "temperature_sensor": 0
   },
   "power_connectors": {
     "cpu_power": ["8-pin"],
@@ -53,7 +53,7 @@
     "part_numbers": ["X870M AORUS ELITE WIFI7"],
     "variant": "X870M ELITE WIFI7",
     "series": "AORUS",
-    "manufacturer_color": "Black/Grey",
+    "manufacturer_color": "Black",
     "releaseYear": 2025
   },
   "socket": "AM5",
@@ -65,11 +65,6 @@
       "gen": "5.0",
       "quantity": 1,
       "lanes": 16
-    },
-    {
-      "gen": "4.0",
-      "quantity": 1,
-      "lanes": 8
     },
     {
       "gen": "4.0",
@@ -105,15 +100,16 @@
     "4 x USB 2.0/1.1 ports",
     "4 x USB 3.2 Gen 1 ports",
     "2 x USB 3.2 Gen 2 Type-A ports",
-    "2 x USB4 USB Type-C® ports",
+    "2 x USB4 USB Type-C ports",
     "1 x RJ-45 port",
     "2 x antenna connectors",
     "2 x audio jacks",
     "1 x optical S/PDIF Out connector"
   ],
-  "lighting": ["None"],
-  "wireless_networking": "Wi-Fi 7",
+  "lighting": ["ARGB"],
+  "wireless_networking": "Wi-Fi 7 Bluetooth 5.4",
   "general_product_information": {
-    "newegg_sku": "9SIC80CM2V6676"
+    "newegg_sku": "9SIC80CM2V6676",
+    "manufacturer_url": "https://www.gigabyte.com/in/Motherboard/X870M-AORUS-ELITE-WIFI7/sp"
   }
 }
